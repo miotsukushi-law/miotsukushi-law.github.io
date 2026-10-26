@@ -20,7 +20,7 @@ title: 澪標
 {%- if days.size == 0 %}
 <section class="empty">
   <h2>第一期還在路上</h2>
-  <p>每週一、週四凌晨，五份快報會自動發布到這裡。</p>
+  <p>人權與性別快報每週一、週四凌晨發布，勞動、數位、永續快報每週一凌晨發布。</p>
 </section>
 {%- else %}
 {%- assign today = days.first %}
@@ -48,12 +48,12 @@ title: 澪標
 <div class="home-grid">
 <section class="today" aria-label="本期快報">
   {%- for s in site.sections %}
-  {%- assign hit = nil -%}
-  {%- for p in today.items -%}{%- if p.categories contains s.key -%}{%- assign hit = p -%}{%- endif -%}{%- endfor %}
+  {%- assign hit = site.categories[s.key] | first -%}
   <article class="leaf sec-{{ s.key }}{% unless hit %} is-empty{% endunless %}">
     <header class="leaf-head">
       <h2 class="leaf-name">{% if hit %}<a href="{{ hit.url | relative_url }}">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h2>
       <p class="leaf-full">{{ s.full }}</p>
+      <p class="leaf-when">{{ s.freq }}{% if hit %}・本期 {{ hit.date | date: "%-m 月 %-d 日" }}{% endif %}</p>
     </header>
     <div class="leaf-body">
     {%- if hit %}
@@ -65,7 +65,7 @@ title: 澪標
       <a class="leaf-more" href="{{ hit.url | relative_url }}">閱讀本期</a>
     </div>
     {%- else %}
-    <p class="leaf-sum muted">這一天沒有這份快報。<a href="{{ '/' | append: s.key | append: '/' | relative_url }}">看過去各期</a></p>
+    <p class="leaf-sum muted">這份快報還沒有發布任何一期。<a href="{{ '/' | append: s.key | append: '/' | relative_url }}">看過去各期</a></p>
     {%- endif %}
     </div>
   </article>

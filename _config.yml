@@ -1,5 +1,5 @@
 title: 澪標
-description: 每週一、週四整理國際人權法、性別法與理論、勞動法、AI 與數位治理、ESG 與供應鏈風險的新發展，附原始來源。
+description: 每週整理國際人權法、性別法與理論、勞動法、AI 與數位治理、ESG 與供應鏈風險的新發展，附原始來源。
 lang: zh-Hant
 timezone: Asia/Taipei
 permalink: /:categories/:year-:month-:day/
@@ -13,18 +13,23 @@ sections:
   - key: human-rights
     name: 人權
     full: 國際人權法每日快報
+    freq: 每週一、四
   - key: gender
     name: 性別
     full: 性別法與理論每日快報
+    freq: 每週一、四
   - key: labour
     name: 勞動
     full: 勞動法每日快報
+    freq: 每週一
   - key: digital
     name: 數位
     full: AI 與數位治理每日快報
+    freq: 每週一
   - key: esg
     name: 永續
     full: ESG 與供應鏈風險每日快報
+    freq: 每週一
 
 collections:
   articles:
