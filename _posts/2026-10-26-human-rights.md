@@ -155,7 +155,11 @@ upcoming:
 - 法律意義：Chamber 判決尚未確定。Casali 案再次把政治言論的刑事追訴放在第 10 條高度保護之下；Poghosyan 案的「法官曾因當事人親屬投訴受懲戒」屬客觀公正判斷的具體類型。
 - 來源：[ECHR 261 (2026) 新聞稿 PDF](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8669906-12365046&filename=Judgments+and+decisions+of+22.10.2026.pdf)；[Forthcoming judgments 20-22.10.2026](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8665279-12356522&filename=Forthcoming+judgments+and+decisions+20-22.10.2026.pdf)
 
-Reporters Without Borders, German Section and Härting v. Germany（81993/17）：前期登記為 10 月 22 日宣告，實際列在「書面通知」名單，未發新聞稿，本期無法確認結果，列入待確認。
+**Reporters Without Borders, German Section and Härting v. Germany（81993/17、81996/17）｜2026 年 10 月 22 日（不受理裁定，依 RSF 新聞稿）**
+
+- 內容摘要：申訴人挑戰德國聯邦情報局（BND）的戰略監控。依 Reporter ohne Grenzen 同日新聞稿，法院宣告申訴不受理、未進入實體審查：就監控本身部分，法院認為申訴人未用盡國內救濟，應先向 G-10 委員會申訴，並表示秘密監控的事後司法審查並非在每一種情形都屬必要。RSF 對此表示遺憾，並指其憲法訴願針對的正是欠缺權利救濟。
+- 法律意義：不受理裁定為終局決定。值得注意的是法院把 G-10 委員會這類非司法監督機關視為須先用盡的救濟，與 Big Brother Watch v. UK、Centrum för rättvisa v. Sweden 大法庭判決所建立的「端到端保障」審查標準如何銜接，值得觀察。裁定原文本期未能從 HUDOC 開啟，以上依 RSF 新聞稿。
+- 來源：[Reporter ohne Grenzen 新聞稿（2026 年 10 月 22 日）](https://www.reporter-ohne-grenzen.de/artikel/pressemitteilungen/4320/bnd-uberwachung-rsf-bedauert-zuruckweisung-seiner-beschwerde-durch-den-egmr)；[Forthcoming judgments 20-22.10.2026](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8665279-12356522&filename=Forthcoming+judgments+and+decisions+20-22.10.2026.pdf)
 
 ### 美洲人權法院
 
@@ -183,8 +187,8 @@ Reporters Without Borders, German Section and Härting v. Germany（81993/17）�
 
 **ECRI 第七次丹麥報告（Seventh report on Denmark）｜2026 年 10 月 22 日公布（6 月 30 日通過）**
 
-- 內容摘要：歐洲反種族主義與不容忍委員會公布丹麥報告，新聞標題為肯定進展但要求丹麥加強反種族主義行動。新聞稿全文本期無法開啟，具體建議未能確認。
-- 法律意義：ECRI 國別報告屬監督性建議，通常附兩項須於兩年內追蹤的優先建議。
+- 內容摘要：ECRI 肯定丹麥自 2022 年以來通過國家反種族主義行動計畫、增加打擊仇恨言論與仇恨犯罪的經費，並改善格陵蘭歷史文化教學；但指出政治與網路仇恨言論增加、行動計畫未明確處理反穆斯林仇恨、校園對種族主義與反 LGBTI 霸凌處理不足，且法律與行政實務中使用的「非西方」分類仍令人關切。15 項建議中的兩項優先建議為：推動反穆斯林種族主義的行動方案，以及建立校園種族主義與反 LGBTI 騷擾事件的監測系統。
+- 法律意義：ECRI 國別報告屬監督性建議，不具拘束力，兩項優先建議會在兩年內進行期中追蹤。新聞稿原文頁補查仍無法開啟，內容依 Agence Europe 報導，公布日以 ECRI 國別頁為準。
 - 來源：[ECRI 丹麥國別頁](https://www.coe.int/fr/web/european-commission-against-racism-and-intolerance/denmark)；[歐洲理事會新聞列表項目](https://www.coe.int/en/web/portal/-/council-of-europe-s-anti-racism-commission-welcomes-progress-but-calls-on-denmark-to-step-up-action-against-racism)
 
 ICJ：本期無新發展，最新新聞稿仍為 9 月 22 日（No. 2026/24）。歐盟執委會與歐盟理事會：本期未查得人權立法或決定。
@@ -226,7 +230,7 @@ ICJ：本期無新發展，最新新聞稿仍為 9 月 22 日（No. 2026/24）�
 
 ## 五、待確認
 
-- **Reporters Without Borders, German Section and Härting v. Germany（81993/17）**：依法院預告於 10 月 22 日以書面通知，涉及德國聯邦情報局（BND）的戰略監控。新聞稿未摘要，HUDOC 本體無法開啟，RSF 網站未查得回應，結果（判決或裁定、是否違反第 8 條與第 10 條）無法確認。[Forthcoming judgments 20-22.10.2026](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8665279-12356522&filename=Forthcoming+judgments+and+decisions+20-22.10.2026.pdf)
+
 - **巴勒斯坦被占領土特別報告員 Albanese 向聯大提交的 2026 年報告**：UN Watch 已刊出評析，但報告文號與提交日期本期未能從官方頁面確認。[UN Watch](https://unwatch.org/legal-analysis-of-francesca-albaneses-october-2026-report/)
 - **布吉納法索恢復死刑**：依 Africanews 報導，司法部於 10 月 21 日宣布過渡立法機關一致通過新刑法，恢復 2018 年廢除的死刑，適用於恐怖主義、間諜、叛國等罪。報導日期與星期不一致（寫「星期二 10 月 21 日」，但 2026 年 10 月 21 日為星期三），表決日未能確認，也未查得官方文件。[Africanews](https://www.africanews.com/2026/10/21/burkina-faso-reinstates-death-penalty-justice-ministry/)
 - **美洲人權委員會言論自由特別報告處譴責墨西哥記者 Hamurabi Huesca 遇害**：依 Cúspide México 10 月 24 日報導，報告處要求墨西哥以應有注意調查，指這是 2026 年墨西哥第九起記者遇害。美洲人權委員會官網無法開啟，新聞稿編號與日期未能確認。[Cúspide México](https://cuspidemexico.com/2026/10/24/la-cidh-exige-investigacion-exhaustiva-tras-el-asesinato-del-periodista-hamurabi-huesca-en-oaxaca/)
@@ -265,6 +269,8 @@ ICJ：本期無新發展，最新新聞稿仍為 9 月 22 日（No. 2026/24）�
 - [Final Communiqué of the 89th Ordinary Session（ACHPR）](https://achpr.au.int/en/news/final-communiques/2026-10-21/final-communique-89th-ordinary-session)
 - [International Criminal Court wins EU's 2026 Sakharov prize（Reuters／Internazionale）](https://www.internazionale.it/ultime-notizie-reuters/2026/10/22/international-criminal-court-wins-eu-s-2026-sakharov-prize)
 - [European Parliament names International Criminal Court and officials as 2026 Sakharov Prize laureates（EuropaWire）](https://news.europawire.eu/european-parliament-names-international-criminal-court-and-officials-as-2026-sakharov-prize-laureates/eu-press-release/2026/10/23/10/57/06/184053/)
+- [BND-Überwachung: RSF bedauert Zurückweisung seiner Beschwerde durch den EGMR（Reporter ohne Grenzen）](https://www.reporter-ohne-grenzen.de/artikel/pressemitteilungen/4320/bnd-uberwachung-rsf-bedauert-zuruckweisung-seiner-beschwerde-durch-den-egmr)
+- [Council of Europe calls on Denmark to step up fight against anti-Muslim racism and LGBTI-phobia（Agence Europe）](https://agenceurope.eu/en/bulletin/article/13966/20/council-of-europe-calls-on-denmark-to-step-up-fight-against-anti-muslim-racism-and-lgbti-phobia)
 - [ECRI：Denmark country monitoring（Council of Europe）](https://www.coe.int/fr/web/european-commission-against-racism-and-intolerance/denmark)
 - [Council of Europe's anti-racism commission calls on Denmark to step up action against racism（Council of Europe）](https://www.coe.int/en/web/portal/-/council-of-europe-s-anti-racism-commission-welcomes-progress-but-calls-on-denmark-to-step-up-action-against-racism)
 - [Congress agenda: democratic backsliding, LGBTI rights（Council of Europe）](https://www.coe.int/en/web/portal/-/early-warning-against-democratic-backsliding-rights-of-lgbti-people-coastal-erosion-and-school-absenteeism-on-congress-agenda)
@@ -296,13 +302,13 @@ ICJ：本期無新發展，最新新聞稿仍為 9 月 22 日（No. 2026/24）�
 4. 條約機構總覽與會期頁：補查已開啟，範圍內 5 則（CEDAW 第 41 號新聞稿與會議摘要、SPT 巴拉圭、CCPR 盧安達、喀麥隆），與 UN Geneva 會議摘要列表（最早至 10 月 12 日）互相核對；有新項目。
 5. 特別程序：補查已開啟，「Latest news」列表最早只到 10 月 22 日（未涵蓋 21 日，21 日部分以 site: 搜尋補足）；有新項目（健康權、阿富汗遣返、個資傳輸、單邊制裁、沙烏地、白化症，另 Meta 巴西與北韓為 21 日）。北韓新聞稿頁補查仍出現網站錯誤。
 6. 聯合國新聞與會議報導（press.un.org）：補查首頁已開啟，列表涵蓋 10 月 21 日至 23 日（24 日至 26 日無項目），確認 GA/SHC/4447、4448、4449 三則第三委員會報導；三則全文頁仍出現網站錯誤，內容未能確認。
-7. 歐洲人權法院新聞稿（HUDOC press）：補查只取得資料庫頁殼，無新聞稿列表；「其他判決新聞稿」頁停在 10 月 13 日，未列 RSF 案；改用法院首頁（已開啟，列表涵蓋 10 月 21 日至 24 日，已到範圍起點）與 HUDOC 新聞稿 PDF；有新項目。法院首頁 10 月 21 日、23 日、24 日另有院長致詞、雅典訪問等機構新聞，未收錄。
+7. 歐洲人權法院新聞稿（HUDOC press）：補查只取得資料庫頁殼，無新聞稿列表；「其他判決新聞稿」頁停在 10 月 13 日，未列 RSF 案（RSF 案結果改依 RSF 新聞稿確認）；改用法院首頁（已開啟，列表涵蓋 10 月 21 日至 24 日，已到範圍起點）與 HUDOC 新聞稿 PDF；有新項目。法院首頁 10 月 21 日、23 日、24 日另有院長致詞、雅典訪問等機構新聞，未收錄。
 8. 美洲人權法院新聞稿：補查後仍只載入 2025 年 4 月的舊快照，期程頁只顯示 2024 年；個別新聞稿 PDF 無法開啟；改用西班牙文與英文搜尋；無可確認的新項目。
 9. 美洲人權委員會新聞稿：補查英文列表頁仍出現網站錯誤；西班牙文列表頁、首頁與個別新聞稿頁先前亦均出現網站錯誤；改用搜尋與報導；新項目列入待確認與即將發生。
 10. 非洲人權委員會與非洲人權法院：委員會新聞頁已開啟（列表涵蓋至 10 月 21 日以前）；有新項目（南非、第 89 屆公報）。非洲人權法院補查已開啟，最新為 10 月 19 日（前期已報導），但頁面修改日期為 10 月 9 日，可能是舊快照；無新項目。
 11. 國際法院新聞稿：已開啟；無新項目（最新 9 月 22 日）。
 12. ILO 新聞：已開啟（列表最早至 10 月 12 日，已到範圍起點之前）；有新項目（AI 工作論文、聖馬利諾批准、家事勞工發布預告）。
-13. 歐洲理事會新聞：已開啟（列表最早至 10 月 21 日，烏克蘭 ECRI 報告為前期已報導）；有新項目（ECRI 丹麥、地方大會議程）；ECRI 丹麥新聞稿全文補查仍出現網站錯誤，改用 ECRI 國別頁確認公布日。
+13. 歐洲理事會新聞：已開啟（列表最早至 10 月 21 日，烏克蘭 ECRI 報告為前期已報導）；有新項目（ECRI 丹麥、地方大會議程）；ECRI 丹麥新聞稿全文補查仍出現網站錯誤，改用 ECRI 國別頁確認公布日，內容依 Agence Europe 報導。
 14. 歐盟執委會新聞中心：補查只取得動態載入的頁殼（含未展開的範本變數）；改用歐盟理事會新聞稿列表（已開啟，涵蓋 10 月 21 日至 23 日）與搜尋；無人權相關新項目（10 月 21 日理事會就個資與隱私規則簡化取得立場，屬數位治理議題，未收錄）。
 
 廣泛檢索
