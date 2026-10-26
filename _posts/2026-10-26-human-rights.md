@@ -34,10 +34,10 @@ upcoming:
     title: "UPR 工作小組第 53 屆會議，審查希臘、匈牙利、泰國、愛爾蘭等 13 國（依 Northeastern CGLJ 人權行事曆，至 11 月 13 日）"
     kind: "會議"
     url: "https://cglj.org/event/universal-periodic-review-53"
-  - date: "2026-12-02"
-    title: "歐洲人權法院就 Ahmad v. Denmark 與 Makki v. Denmark 舉行公開聽審"
+  - date: "2026-10-26"
+    title: "高齡者人權政府間工作小組第二屆會議（至 10 月 30 日）"
     kind: "會議"
-    url: "https://www.echr.coe.int/"
+    url: "https://www.ohchr.org/en/events/sessions/2026/second-session-intergovernmental-working-group-human-rights-older-persons-26"
 ---
 
 ## 一、本期重點
@@ -81,7 +81,13 @@ upcoming:
 - 法律意義：委員會依第 32 號一般性意見的立場，平民受軍事法院審判須屬例外且有正當理由。喀麥隆尚未批准 ICCPR 第二任擇議定書。
 - 來源：[UN Geneva 會議摘要](https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/examen-du-cameroun-au-comite-des-droits-de-lhomme-les-experts)
 
-個人申訴決定：本期未查得新公開的條約機構個人申訴決定。條約機構判例資料庫無法開啟（見檢查紀錄）。
+**Paraguay: UN torture prevention experts return after 16 years（防範酷刑小組委員會睽違 16 年再訪巴拉圭）｜2026 年 10 月 23 日**
+
+- 內容摘要：OPCAT 下的防範酷刑小組委員會（SPT）於 10 月 25 日至 11 月 3 日第三度訪問巴拉圭（前兩次為 2009、2010 年），代表團由 Marco Feoli Villalobos 率領。將查訪監所、少年收容機構與精神醫療院所，與被剝奪自由者私下訪談，並與國家防範機制會面，重點是 2010 年建議的落實情形。
+- 法律意義：SPT 訪視是 OPCAT 締約國的條約義務，訪視報告保密，須經巴拉圭同意才公開。
+- 來源：[OHCHR 新聞稿](https://www.ohchr.org/en/press-releases/2026/10/paraguay-un-torture-prevention-experts-return-after-16-years)
+
+個人申訴決定：本期未查得新公開的條約機構個人申訴決定。條約機構判例資料庫首頁補查後可開啟，但只有說明文字，沒有新增決定的列表（見檢查紀錄）。
 
 ### 特別程序
 
@@ -109,7 +115,31 @@ upcoming:
 - 法律意義：涉及禁止驅逐出境原則（non-refoulement）與強迫失蹤。OHCHR 原始新聞稿本期無法開啟，日期依報導推算，標題與發表者依 UN News 與 NK News。
 - 來源：[UN News](https://news.un.org/en/story/2026/10/1168645)；[NK News](https://www.nknews.org/2026/10/un-experts-raise-concern-about-fates-of-forcibly-repatriated-north-koreans/)；[OHCHR 新聞稿頁](https://www.ohchr.org/en/press-releases/2026/10/many-returned-north-korea-china-remain-unaccounted-say-un-experts)
 
-聯大第三委員會：依暫定議程，10 月 21 日至 23 日陸續由移民、境內流離失所者、法外處決、反恐、法官與律師獨立、健康權、痲瘋病、白化症、宗教自由、單邊強制措施、外債、CRPD 主席、身心障礙者與少數群體等特別程序報告。聯合國會議報導僅確認 10 月 21 日一則（GA/SHC/4447，標題為「War on Narco-Terrorism Fuels Unlawful Killings, Third Committee Hears, as Experts Warn of Mass Displacement, Attacks on Justice」），全文頁無法開啟，未能確認內容。
+**Health and disability UN expert calls for stronger accountability to effectively realise right to health（健康權特別報告員呼籲強化究責以落實健康權）｜2026 年 10 月 22 日**
+
+- 內容摘要：現任健康權特別報告員 Mariângela Simão 向聯大提出前任 Tlaleng Mofokeng 撰寫的報告，主題是健康權的可司法性。報告認為健康權是受法律保護的權利，受侵害時必須有有效救濟；司法、準司法與行政機制都可承擔究責功能，但需要制度性配套，且救濟管道必須讓受歧視或被排除的群體實際用得到。
+- 法律意義：向聯大提交的主題報告屬軟法，報告文號頁面未載明。論點與 CESCR 第 14 號一般性意見關於救濟與究責的段落一致，可作為社會權在國內法院主張的論理素材。
+- 來源：[OHCHR 新聞稿](https://www.ohchr.org/en/press-releases/2026/10/un-expert-calls-stronger-accountability-effectively-realise-right-health)
+
+**EU states must not send Afghans back to danger, warn UN experts（聯合國專家警告歐盟國家不得將阿富汗人遣返至危險之地）｜2026 年 10 月 22 日**
+
+- 內容摘要：阿富汗人權特別報告員 Richard Bennett、移民人權與反恐特別報告員、國際團結獨立專家與婦女及女童歧視工作小組指出，部分歐盟成員國持續與塔利班進行「技術性」討論以準備遣返，並接受塔利班領事人員入境；執委會 6 月也接待了塔利班首個正式代表團。專家要求遣返前須個別評估風險並踐行正當程序，外交保證不能免除義務，並反對在缺乏人權條件下與塔利班關係正常化。
+- 法律意義：專家援引 CAT、ICCPR、難民公約與歐洲人權公約下的禁止遣返原則，屬特別程序聲明，不具拘束力，但其中「外交保證不能免除義務」與歐洲人權法院、禁止酷刑委員會的既有判斷一致。新聞稿未點名具體國家。
+- 來源：[OHCHR 新聞稿](https://www.ohchr.org/en/press-releases/2026/10/eu-states-must-not-send-afghans-back-danger-warn-un-experts)
+
+**UN expert highlights global challenges to international transfer of personal data（聯合國專家點出個資國際傳輸的全球性挑戰，A/81/178）｜2026 年 10 月 23 日**
+
+- 內容摘要：隱私權特別報告員 Ana Brian Nougrères 向聯大提交報告，檢視適足性認定、標準契約條款、拘束性企業規則與多邊隱私機制，結論是沒有任何一種工具單獨足夠，成效取決於國內個資法品質、監管機關能力、政治意志與當事人權利意識。建議國家依國際人權標準更新個資法並強化監管機關，企業落實隱私設計與傳輸影響評估，把個資保護納入數位貿易與自由貿易協定談判，並談判一項具拘束力的國際個資傳輸文書。
+- 法律意義：主題報告屬軟法。建議締結國際條約的立場值得追蹤，也與 ICCPR 第 17 條隱私權在跨境資料流動上的適用有關。本期初版列入待確認，補查後已確認內容。
+- 來源：[OHCHR 新聞稿](https://www.ohchr.org/en/press-releases/2026/10/un-expert-highlights-global-challenges-international-transfer-personal-data)
+
+**UN expert outlines priorities to address growing weaponisation and human cost of unilateral sanctions（聯合國專家提出應對單邊制裁武器化與人權代價的優先事項）｜2026 年 10 月 23 日**
+
+- 內容摘要：單邊強制措施特別報告員 Zaina Jallad 向聯大提出任務願景報告，指單邊制裁擴散（包括針對 ICC 人員、人權捍衛者與另一位特別報告員的措施）削弱多邊究責機制，且私部門的過度遵循與去風險化讓人道豁免失靈，造成跨世代傷害。報告列出八項核心主題，包括對國際機構的攻擊、過度遵循與人道豁免、對第三國與遷徙的影響、資產凍結與沒收。
+- 法律意義：屬軟法；本任務的合法性與範圍在國家間本有爭議。對企業法務而言，「過度遵循」議題與制裁合規實務直接相關。報告文號頁面未載明。
+- 來源：[OHCHR 新聞稿](https://www.ohchr.org/en/press-releases/2026/10/un-expert-outlines-priorities-address-growing-weaponisation-and-human-cost)
+
+聯大第三委員會：聯合國會議報導列表確認 10 月 21 日 GA/SHC/4447（「War on Narco-Terrorism Fuels Unlawful Killings, Third Committee Hears, as Experts Warn of Mass Displacement, Attacks on Justice」）、10 月 22 日 GA/SHC/4448（專家警告終止人權任務不等於侵害已解決，關切歧視與健康、司法近用障礙）、10 月 23 日 GA/SHC/4449（「Disability Inclusion Cannot Wait until a Conflict Ends」，身心障礙者在人道援助中的障礙與 AI 風險）。三則全文頁補查時仍出現網站錯誤，內容未能確認。
 
 ### 歐洲人權法院
 
@@ -190,12 +220,13 @@ ICJ：本期無新發展，最新新聞稿仍為 9 月 22 日（No. 2026/24）�
 - **2026 年 10 月 27 日**｜歐洲理事會地方與區域當局大會第 51 屆會議，議程含 LGBTI 族群在地方社群的言論與集會自由（至 10 月 29 日）（[來源](https://www.coe.int/en/web/portal/-/early-warning-against-democratic-backsliding-rights-of-lgbti-people-coastal-erosion-and-school-absenteeism-on-congress-agenda)）
 - **2026 年 10 月 29 日**｜聯大第三委員會與健康環境權、氣候變遷、有害物質特別報告員及工商企業與人權工作小組互動對話（暫定議程，可能變動）（[來源](https://www.un.org/en/ga/third/81/pdf/provisional-list.pdf)）
 - **2026 年 11 月 2 日**｜UPR 工作小組第 53 屆會議，審查希臘、匈牙利、泰國、愛爾蘭等 13 國（依 Northeastern CGLJ 人權行事曆，至 11 月 13 日）（[來源](https://cglj.org/event/universal-periodic-review-53)）
+- **2026 年 10 月 26 日**｜高齡者人權政府間工作小組第二屆會議（至 10 月 30 日）；同日發展權專家機制第 14 屆會議開議（[來源](https://www.ohchr.org/en/events/sessions/2026/second-session-intergovernmental-working-group-human-rights-older-persons-26)）
+- **2026 年 10 月 27 日**｜歐洲人權法院宣告 Dogar v. Romania 等 3 件判決；10 月 29 日另宣告 22 件判決或裁定，包括 Genderdoc-M v. Moldova（23907/15）、Lo Sicco v. Italy（14417/09，黑手黨結社定罪的可預見性）（[來源](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8670566-12366148&filename=Forthcoming%20judgments%20and%20decisions%2027-29.10.2026.pdf)）
 - **2026 年 12 月 2 日**｜歐洲人權法院就 Ahmad v. Denmark 與 Makki v. Denmark 舉行公開聽審（[來源](https://www.echr.coe.int/)）
 
 ## 五、待確認
 
 - **Reporters Without Borders, German Section and Härting v. Germany（81993/17）**：依法院預告於 10 月 22 日以書面通知，涉及德國聯邦情報局（BND）的戰略監控。新聞稿未摘要，HUDOC 本體無法開啟，RSF 網站未查得回應，結果（判決或裁定、是否違反第 8 條與第 10 條）無法確認。[Forthcoming judgments 20-22.10.2026](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8665279-12356522&filename=Forthcoming+judgments+and+decisions+20-22.10.2026.pdf)
-- **隱私權特別報告員向聯大提交的個資跨境傳輸報告**：OHCHR 首頁列有 10 月 23 日新聞稿「UN expert highlights global challenges to international transfer of personal data」，但頁面無法開啟，報告文號與內容未能確認。
 - **巴勒斯坦被占領土特別報告員 Albanese 向聯大提交的 2026 年報告**：UN Watch 已刊出評析，但報告文號與提交日期本期未能從官方頁面確認。[UN Watch](https://unwatch.org/legal-analysis-of-francesca-albaneses-october-2026-report/)
 - **布吉納法索恢復死刑**：依 Africanews 報導，司法部於 10 月 21 日宣布過渡立法機關一致通過新刑法，恢復 2018 年廢除的死刑，適用於恐怖主義、間諜、叛國等罪。報導日期與星期不一致（寫「星期二 10 月 21 日」，但 2026 年 10 月 21 日為星期三），表決日未能確認，也未查得官方文件。[Africanews](https://www.africanews.com/2026/10/21/burkina-faso-reinstates-death-penalty-justice-ministry/)
 - **美洲人權委員會言論自由特別報告處譴責墨西哥記者 Hamurabi Huesca 遇害**：依 Cúspide México 10 月 24 日報導，報告處要求墨西哥以應有注意調查，指這是 2026 年墨西哥第九起記者遇害。美洲人權委員會官網無法開啟，新聞稿編號與日期未能確認。[Cúspide México](https://cuspidemexico.com/2026/10/24/la-cidh-exige-investigacion-exhaustiva-tras-el-asesinato-del-periodista-hamurabi-huesca-en-oaxaca/)
@@ -217,6 +248,15 @@ ICJ：本期無新發展，最新新聞稿仍為 9 月 22 日（No. 2026/24）�
 - [UN experts raise concern about fates of forcibly repatriated North Koreans（NK News）](https://www.nknews.org/2026/10/un-experts-raise-concern-about-fates-of-forcibly-repatriated-north-koreans/)
 - [OHCHR 首頁新聞列表](https://www.ohchr.org/en/ohchr_homepage)
 - [Third Committee provisional list（UN）](https://www.un.org/en/ga/third/81/pdf/provisional-list.pdf)
+- [Health and disability UN expert calls for stronger accountability to effectively realise right to health（OHCHR）](https://www.ohchr.org/en/press-releases/2026/10/un-expert-calls-stronger-accountability-effectively-realise-right-health)
+- [EU states must not send Afghans back to danger, warn UN experts（OHCHR）](https://www.ohchr.org/en/press-releases/2026/10/eu-states-must-not-send-afghans-back-danger-warn-un-experts)
+- [UN expert highlights global challenges to international transfer of personal data（OHCHR）](https://www.ohchr.org/en/press-releases/2026/10/un-expert-highlights-global-challenges-international-transfer-personal-data)
+- [UN expert outlines priorities to address growing weaponisation and human cost of unilateral sanctions（OHCHR）](https://www.ohchr.org/en/press-releases/2026/10/un-expert-outlines-priorities-address-growing-weaponisation-and-human-cost)
+- [Paraguay: UN torture prevention experts return after 16 years（OHCHR）](https://www.ohchr.org/en/press-releases/2026/10/paraguay-un-torture-prevention-experts-return-after-16-years)
+- [Second session of the Intergovernmental Working Group on the human rights of older persons（OHCHR）](https://www.ohchr.org/en/events/sessions/2026/second-session-intergovernmental-working-group-human-rights-older-persons-26)
+- [UN Meetings Coverage and Press Releases（press.un.org）](https://press.un.org/en)
+- [Forthcoming judgments and decisions 27-29.10.2026（HUDOC）](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8670566-12366148&filename=Forthcoming%20judgments%20and%20decisions%2027-29.10.2026.pdf)
+- [ICC Wins EU Parliament's Sakharov Prize（HRW）](https://www.hrw.org/news/2026/10/22/icc-wins-eu-parliaments-sakharov-prize)
 - [Berlusconi v. Italy（ECtHR）](https://www.echr.coe.int/w/berlusconi-v.-italy)
 - [Judgments and decisions of 22.10.2026, ECHR 261 (2026)（HUDOC）](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8669906-12365046&filename=Judgments+and+decisions+of+22.10.2026.pdf)
 - [Forthcoming judgments and decisions 20-22.10.2026（HUDOC）](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8665279-12356522&filename=Forthcoming+judgments+and+decisions+20-22.10.2026.pdf)
@@ -246,24 +286,24 @@ ICJ：本期無新發展，最新新聞稿仍為 9 月 22 日（No. 2026/24）�
 
 查找範圍：台北時間 2026 年 10 月 21 日 15:26 至 10 月 26 日 03:26（週一期，往前 96 小時另加 12 小時緩衝，共 108 小時）。涵蓋日期：10 月 21 日（下午起）、22 日、23 日、24 日、25 日、26 日（凌晨）。前 2 期（10 月 21 日、10 月 22 日）已報導的 CCPR 奧地利審查、ECRI 烏克蘭報告、ILO 斯里蘭卡平台經濟、HRW 越南工會等，本期未重複。
 
-本期執行限制：排程任務中，提示所列的固定來源網址以 WebFetch 直接開啟時，系統要求使用者即時授權，無人回應而撤回；因此各固定來源改以 site: 搜尋取得列表或官方頁面網址後再開啟。
+本期執行限制與補查：排程執行時，提示所列的固定來源網址直接開啟需要使用者即時授權，因無人回應而撤回，當時改以 site: 搜尋取得網址後再開啟。發布後依使用者要求補查需授權的網站，補查結果已併入下列各項，新增條目為健康權報告、阿富汗遣返、個資跨境傳輸報告（由待確認移入）、單邊制裁報告、SPT 巴拉圭訪視。
 
 固定來源
 
-1. OHCHR 最新消息（/en/latest）：直接開啟遭權限撤回；改開 OHCHR 首頁新聞列表（已開啟，列表涵蓋 10 月 7 日至 23 日，已到範圍起點之前）；有新項目。
-2. 人權理事會首頁：直接開啟遭權限撤回；以搜尋確認第 63 屆常會 10 月 7 日已閉幕，UPR 第 53 屆 11 月 2 日開始；無新項目。
-3. 條約機構判例資料庫：直接開啟遭權限撤回；site: 搜尋未見新決定；無法確認。
-4. 條約機構總覽與會期頁：直接開啟遭權限撤回；改用 UN Geneva 會議摘要列表（已開啟，最早至 10 月 12 日，已到範圍起點之前）；有新項目（CEDAW 第 41 號、CCPR 盧安達、喀麥隆）。
-5. 特別程序：直接開啟遭權限撤回；改用 site:ohchr.org 新聞稿搜尋與 OHCHR 首頁列表；有新項目（Meta 巴西、沙烏地、白化症、北韓）。
-6. 聯合國新聞與會議報導（press.un.org）：直接開啟遭權限撤回，第三委員會列表與 GA/SHC/4447 全文頁出現網站錯誤；改用第三委員會暫定議程與 UN News 列表（已開啟，涵蓋 10 月 22 日至 24 日）；第三委員會內容無法確認。
-7. 歐洲人權法院新聞稿（HUDOC press）：改用法院首頁（已開啟，列表涵蓋 10 月 21 日至 24 日，已到範圍起點）與 HUDOC 新聞稿 PDF；有新項目。法院首頁 10 月 21 日、23 日、24 日另有院長致詞、雅典訪問等機構新聞，未收錄。
-8. 美洲人權法院新聞稿：官網新聞稿頁只載入 2025 年舊快照，期程頁只顯示 2024 年；個別新聞稿 PDF 無法開啟；改用西班牙文與英文搜尋；無可確認的新項目。
-9. 美洲人權委員會新聞稿：英文與西班牙文列表頁、首頁與個別新聞稿頁均出現網站錯誤；改用搜尋與報導；新項目列入待確認與即將發生。
-10. 非洲人權委員會與非洲人權法院：委員會新聞頁已開啟（列表涵蓋至 10 月 21 日以前）；有新項目（南非、第 89 屆公報）。非洲人權法院本期未另行開啟列表，搜尋未見新公告。
+1. OHCHR 最新消息（/en/latest）：補查時網站回報錯誤，仍無法開啟；改用 OHCHR 首頁新聞列表（已開啟，列表涵蓋 10 月 7 日至 23 日，已到範圍起點之前）；有新項目。
+2. 人權理事會首頁：補查已開啟；範圍內只有 10 月 22 日發展權 40 週年會議的媒體通告，以及 10 月 26 日開議的高齡者人權工作小組與發展權專家機制會期（列入即將發生）；無決議或調查委員會報告。
+3. 條約機構判例資料庫：補查已開啟，但首頁只有資料庫說明，沒有案件列表；site: 搜尋亦未見新決定；無新項目。
+4. 條約機構總覽與會期頁：補查已開啟，範圍內 5 則（CEDAW 第 41 號新聞稿與會議摘要、SPT 巴拉圭、CCPR 盧安達、喀麥隆），與 UN Geneva 會議摘要列表（最早至 10 月 12 日）互相核對；有新項目。
+5. 特別程序：補查已開啟，「Latest news」列表最早只到 10 月 22 日（未涵蓋 21 日，21 日部分以 site: 搜尋補足）；有新項目（健康權、阿富汗遣返、個資傳輸、單邊制裁、沙烏地、白化症，另 Meta 巴西與北韓為 21 日）。北韓新聞稿頁補查仍出現網站錯誤。
+6. 聯合國新聞與會議報導（press.un.org）：補查首頁已開啟，列表涵蓋 10 月 21 日至 23 日（24 日至 26 日無項目），確認 GA/SHC/4447、4448、4449 三則第三委員會報導；三則全文頁仍出現網站錯誤，內容未能確認。
+7. 歐洲人權法院新聞稿（HUDOC press）：補查只取得資料庫頁殼，無新聞稿列表；「其他判決新聞稿」頁停在 10 月 13 日，未列 RSF 案；改用法院首頁（已開啟，列表涵蓋 10 月 21 日至 24 日，已到範圍起點）與 HUDOC 新聞稿 PDF；有新項目。法院首頁 10 月 21 日、23 日、24 日另有院長致詞、雅典訪問等機構新聞，未收錄。
+8. 美洲人權法院新聞稿：補查後仍只載入 2025 年 4 月的舊快照，期程頁只顯示 2024 年；個別新聞稿 PDF 無法開啟；改用西班牙文與英文搜尋；無可確認的新項目。
+9. 美洲人權委員會新聞稿：補查英文列表頁仍出現網站錯誤；西班牙文列表頁、首頁與個別新聞稿頁先前亦均出現網站錯誤；改用搜尋與報導；新項目列入待確認與即將發生。
+10. 非洲人權委員會與非洲人權法院：委員會新聞頁已開啟（列表涵蓋至 10 月 21 日以前）；有新項目（南非、第 89 屆公報）。非洲人權法院補查已開啟，最新為 10 月 19 日（前期已報導），但頁面修改日期為 10 月 9 日，可能是舊快照；無新項目。
 11. 國際法院新聞稿：已開啟；無新項目（最新 9 月 22 日）。
 12. ILO 新聞：已開啟（列表最早至 10 月 12 日，已到範圍起點之前）；有新項目（AI 工作論文、聖馬利諾批准、家事勞工發布預告）。
-13. 歐洲理事會新聞：已開啟（列表最早至 10 月 21 日，烏克蘭 ECRI 報告為前期已報導）；有新項目（ECRI 丹麥、地方大會議程）；ECRI 丹麥新聞稿全文無法開啟，改用 ECRI 國別頁確認公布日。
-14. 歐盟執委會新聞中心：直接開啟遭權限撤回；改用歐盟理事會新聞稿列表（已開啟，涵蓋 10 月 21 日至 23 日）與搜尋；無人權相關新項目（10 月 21 日理事會就個資與隱私規則簡化取得立場，屬數位治理議題，未收錄）。
+13. 歐洲理事會新聞：已開啟（列表最早至 10 月 21 日，烏克蘭 ECRI 報告為前期已報導）；有新項目（ECRI 丹麥、地方大會議程）；ECRI 丹麥新聞稿全文補查仍出現網站錯誤，改用 ECRI 國別頁確認公布日。
+14. 歐盟執委會新聞中心：補查只取得動態載入的頁殼（含未展開的範本變數）；改用歐盟理事會新聞稿列表（已開啟，涵蓋 10 月 21 日至 23 日）與搜尋；無人權相關新項目（10 月 21 日理事會就個資與隱私規則簡化取得立場，屬數位治理議題，未收錄）。
 
 廣泛檢索
 
@@ -281,8 +321,8 @@ ICJ：本期無新發展，最新新聞稿仍為 9 月 22 日（No. 2026/24）�
 逐日檢查
 
 - 10 月 21 日（15:26 起）：OHCHR（Meta 巴西）、ACHPR（第 89 屆公報）、特別程序（北韓，依報導）有項目。
-- 10 月 22 日：ECtHR（判決）、UN Geneva（CCPR 盧安達）、ILO（聖馬利諾、家事勞工預告）、歐洲理事會（ECRI 丹麥）、歐洲議會（沙卡洛夫獎）有項目。
-- 10 月 23 日：OHCHR（CEDAW 第 41 號、蘇丹、沙烏地、白化症）、UN Geneva（CCPR 喀麥隆）、ILO（AI 工作論文）、ACHPR（南非，當日發出）有項目。
+- 10 月 22 日：ECtHR（判決）、UN Geneva（CCPR 盧安達）、特別程序（健康權、阿富汗遣返）、ILO（聖馬利諾、家事勞工預告）、歐洲理事會（ECRI 丹麥）、歐洲議會（沙卡洛夫獎）有項目。
+- 10 月 23 日：OHCHR（CEDAW 第 41 號、蘇丹、沙烏地、白化症、個資傳輸、單邊制裁、SPT 巴拉圭）、UN Geneva（CCPR 喀麥隆）、ILO（AI 工作論文）、ACHPR（南非，當日發出）有項目。
 - 10 月 24 日：ACHPR 南非聲明上網；其他固定來源（OHCHR、ILO、歐洲理事會、UN News）列表均已涵蓋到本日，為週六，未見新官方項目，判斷為確實無新發展。
 - 10 月 25 日：週日，OHCHR、ECtHR、ILO、歐洲理事會、UN News、HRW 列表均無本日項目，判斷為確實無新發展；僅有美洲人權委員會會期的預告報導。
 - 10 月 26 日（至 03:26）：歐洲與日內瓦時間仍為週日夜間，無新項目。
