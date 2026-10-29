@@ -1,297 +1,310 @@
 ---
 layout: issue
 title: "國際人權法每日快報｜2026 年 10 月 29 日"
-date: 2026-10-29 04:00:00 +0800
+date: 2026-10-29 08:40:00 +0800
 categories: [human-rights]
-tags: [聯合國大會, 人權理事會, CCPR, 美洲人權委員會, UFLPA, 強迫勞動, ILO, ICJ]
-summary: "烏克蘭調查委員會 10 月 26 日在聯大第三委員會認定俄羅斯攻擊能源設施構成戰爭罪與危害人類罪，同日 Albanese 提出 A/81/249 媒體報告；人權事務委員會二讀結社自由一般性意見草案並結束牙買加審查；美國 UFLPA 實體清單新增華大基因等 3 家；ILO 發布家事勞工全球新估計。"
+tags: [聯合國大會, 人權理事會, CCPR, UFLPA, 強迫勞動, ILO, IACtHR, 台灣]
+summary: "烏克蘭調查委員會 10 月 26 日在聯大第三委員會認定俄羅斯攻擊能源設施構成戰爭罪與危害人類罪；人權事務委員會二讀結社自由一般性意見草案並審查牙買加；美國 UFLPA 實體清單新增華大基因等 3 家，10 月 29 日刊登聯邦公報；ILO 發布家事勞工全球新估計。"
 upcoming:
   - date: "2026-10-29"
     title: "聯大第三委員會與健康環境權、氣候變遷、有害物質特別報告員及工商企業與人權工作小組互動對話（暫定議程，可能變動）"
     kind: "會議"
     url: "https://www.un.org/en/ga/third/81/pdf/provisional-list.pdf"
   - date: "2026-10-29"
-    title: "歐洲人權法院宣告 22 件判決或裁定，包括 Genderdoc-M v. Moldova（23907/15）與 Lo Sicco v. Italy（14417/09）"
+    title: "歐洲人權法院宣告 22 件判決或裁定，包括 Genderdoc-M v. the Republic of Moldova（23907/15）與 Lo Sicco v. Italy（14417/09）"
     kind: "宣判"
-    url: "https://www.echr.coe.int/e/news-copy-/20132/10475893"
+    url: "https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8670566-12366148&filename=Forthcoming%20judgments%20and%20decisions%2027-29.10.2026.pdf"
   - date: "2026-10-29"
-    title: "美國 UFLPA 實體清單新增 BGI Genomics、MGI Tech、Shenzhen BGI Technology，於聯邦公報正式刊登"
+    title: "美國 UFLPA 實體清單新增 BGI Genomics、MGI Tech、Shenzhen BGI Technology，刊登聯邦公報（FR Doc. 2026-22094）"
     kind: "生效"
     url: "https://public-inspection.federalregister.gov/2026-22094.pdf"
   - date: "2026-11-02"
-    title: "UPR 工作小組第 53 屆會議，審查希臘、匈牙利、泰國、愛爾蘭、美國等國（至 11 月 13 日，時程暫定）"
+    title: "UPR 工作小組第 53 屆會議，審查希臘、匈牙利、泰國、愛爾蘭、美國等 14 國（至 11 月 13 日，時程暫定）"
     kind: "會議"
     url: "https://upr-info.org/sites/default/files/general-document/2025-12/timetable_upr_53.pdf"
   - date: "2026-11-17"
-    title: "台灣 CRPD 第三次國家報告國際審查會議（至 11 月 19 日，結論性意見記者會 11 月 22 日）"
+    title: "台灣 CRPD 第三次國家報告國際審查會議（至 11 月 19 日，11 月 22 日發表結論性意見）"
     kind: "會議"
-    url: "https://crpd.sfaa.gov.tw/BulletinCtrl?func=getBulletin&p=b_2&c=D&bulletinId=2086"
-  - date: "2026-11-19"
-    title: "ILO 理事會預定通過結社自由委員會報告（GB.358/INS/21）後公布"
-    kind: "發布"
-    url: "https://www.ilo.org/resource/conference-paper/gb/gb358/report-committee-freedom-association"
+    url: "https://www.mohw.gov.tw/cp-101-88074-1.html"
+  - date: "2026-12-02"
+    title: "歐洲人權法院就 Ahmad v. Denmark 與 Makki v. Denmark 舉行公開聽審"
+    kind: "會議"
+    url: "https://www.echr.coe.int/e/news-copy-/20132/10475893"
   - date: "2026-12-16"
-    title: "歐洲人權法院大法庭就 Macagnino and Marzo v. Italy 與 Cavallotti and Others v. Italy 舉行聽審"
+    title: "歐洲人權法院就 Macagnino and Marzo v. Italy 與 Cavallotti and Others v. Italy 舉行公開聽審"
     kind: "會議"
-    url: "https://www.echr.coe.int/cases-pending-before-the-grand-chamber"
-  - date: "2027-01-20"
-    title: "歐洲人權法院大法庭就 Z and Others v. Finland（42758/23）舉行聽審"
+    url: "https://www.echr.coe.int/e/news-copy-/20132/10475893"
+  - date: "2027-01-13"
+    title: "歐洲人權法院就 Knopp v. Hungary 舉行公開聽審"
     kind: "會議"
-    url: "https://www.echr.coe.int/cases-pending-before-the-grand-chamber"
+    url: "https://www.echr.coe.int/e/news-copy-/20132/10475893"
 ---
 
 ## 一、本期重點
 
-- 烏克蘭問題獨立國際調查委員會（10 月 26 日）：在聯大第三委員會提出 A/81/440，認定俄羅斯對烏克蘭能源與供暖設施的攻擊構成故意攻擊民用物體的戰爭罪，並因屬國家政策而構成危害人類罪中的其他不人道行為；另認定俄方以詐騙與脅迫從 29 國販運男性入伍。
-- 巴勒斯坦議題在第三委員會（10 月 26 日）：特別報告員 Albanese 提出 A/81/249〈Truth under the rubble〉，以「mediacide」概念處理攻擊記者；調查委員會 A/81/430 首度認定以色列在西岸犯下滅絕等危害人類罪。前期待確認的 Albanese 報告文號與日期，本期已確認。
-- 人權事務委員會（10 月 26 日至 27 日）：二讀 ICCPR 第 22 條結社自由一般性意見草案，納入 AI、生物辨識監控與「和平的公民不服從」，並拒絕在境外資金段落加上「legally」；同時結束牙買加審查，聚焦警察致命開槍與同性性行為入罪條文。
-- 美國 UFLPA 實體清單擴充（10 月 28 日送聯邦公報檢閱，29 日刊登）：新增 BGI Genomics、MGI Tech、Shenzhen BGI Technology，清單合計 190 家，首度大規模納入基因體與生技產業。
-- ILO 家事勞工全球新估計（10 月 27 日）：全球 8,000 萬名家事勞工中 83.1% 屬非正式就業，薪資只有其他受僱者的 53.3%，C189 通過 15 年後落差仍大。
+- 烏克蘭問題獨立國際調查委員會（10 月 26 日）：在聯大第三委員會提出報告，認定俄羅斯攻擊烏克蘭能源與供暖設施構成故意攻擊民用物體的戰爭罪，並構成危害人類罪；另認定俄方從 29 國以詐騙脅迫方式招募男性入伍。
+- 巴勒斯坦議題（10 月 26 日）：高級專員 Türk 對以色列在希伯崙的行動提出「種族清洗」疑慮；被占領土調查委員會向聯大報告以色列犯下戰爭罪與危害人類罪；特別報告員 Albanese 的 A/81/249〈Truth under the rubble〉同日在第三委員會提出。前期待確認的報告文號，本期已確認。
+- 人權事務委員會（10 月 26 日至 27 日）：二讀 ICCPR 第 22 條結社自由一般性意見草案，第 14 段把 AI 與生物辨識監控的規範對象擴及私人行為者，並拒絕在募款權條文加上「legally」；同時審查牙買加第五次報告。
+- 美國 UFLPA 實體清單（10 月 28 日送公開檢閱，29 日刊登）：新增 BGI Genomics、MGI Tech 與 Shenzhen BGI Technology，理由是在新疆為當地政府進行基因檢測，清單合計 190 家。
+- ILO 家事勞工全球新估計（10 月 27 日）：全球約 8,000 萬名家事勞工中有 6,650 萬人屬非正式就業，平均月薪只有其他受僱者的 53.3%。前期已登記為預告事項，本期補充內容。
 
 ## 二、分類條目
 
 ### 聯合國人權理事會
 
-**Ukraine: Investigators find Russia committed war crimes by targeting civilians（烏克蘭問題獨立國際調查委員會：俄羅斯攻擊平民設施構成戰爭罪，A/81/440）｜2026 年 10 月 26 日**
+**Ukraine: Investigators find Russia committed war crimes by targeting civilians（烏克蘭問題獨立國際調查委員會：俄羅斯攻擊平民設施構成戰爭罪）｜2026 年 10 月 26 日**
 
-- 內容摘要：委員會主席 Erik Møse 於 10 月 26 日上午向第三委員會提出報告。委員會依 255 人陳述與 2025 至 2026 年冬季大規模斷電、斷暖、斷水的證據，認定俄方攻擊能源設施構成故意攻擊民用物體的戰爭罪；因攻擊依循國家政策，另構成危害人類罪中的其他不人道行為。委員會也認定俄方以欺騙與脅迫手段，把 29 國男性販運入伍，要求讓他們全數退役。烏方對俄境內能源設施的攻擊，因俄方拒絕入境而無法評估。
-- 法律意義：人權理事會設立的調查機制報告，屬事實調查與法律定性，不具拘束力，但常為 ICC 與國內普遍管轄程序引用。論理上值得注意的是委員會由官方聲明與攻擊計畫推論行為人「明知供暖設施對平民不可或缺」，以此建立主觀要件；並把外籍兵員招募放進人口販運與國際人權法框架。OHCHR 原新聞稿頁本期無法開啟，以聯合國駐烏克蘭辦公室與 UN News 為準。
-- 來源：[聯合國駐烏克蘭辦公室新聞稿](https://ukraine.un.org/en/325200-russian-authorities-committed-crimes-against-humanity-through-attacks-ukraine%E2%80%99s-energy)；[UN News](https://news.un.org/en/story/2026/10/1168670)
+- 內容摘要：委員會（Erik Møse、Pablo de Greiff、Vrinda Grover）向聯大第三委員會提出報告。委員會依 255 人陳述及烏克蘭官方、醫師與 NGO 資料，認定俄方攻擊能源設施構成「故意以民用物體為攻擊對象」的戰爭罪，並構成危害人類罪；報告指出俄方指揮官知道遭攻擊的供暖設施是平民過冬所必需。委員會也檢視烏克蘭對俄羅斯及被占領區能源設施的攻擊，但因俄方拒絕入境無法調查其影響。另有「有力證據」顯示俄方從 29 國以人口販運方式招募男性入伍，委員會要求讓所有被販運者退伍。
+- 法律意義：人權理事會設立的調查機制報告，屬事實調查與法律定性，不具拘束力，但常被 ICC 與各國普遍管轄程序引用。由攻擊目標的性質推論主觀要件，以及把外籍兵員招募放進人口販運與國際人權法框架，是兩個值得注意的論理。報告文號依連結檔名推定為 A/81/440，頁面未明載。
+- 來源：[UN News](https://news.un.org/en/story/2026/10/1168670)；[第三委員會暫定議程](https://www.un.org/en/ga/third/81/pdf/provisional-list.pdf)
 
-**UN System 'Sits Idle While We Fall into Hell', Special Rapporteur Warns, as 'Truth in Palestine Is under Attack'（第三委員會 10 月 26 日下午會議：巴勒斯坦調查委員會、Albanese 與尼加拉瓜專家組，GA/SHC/4450）｜2026 年 10 月 26 日**
+**West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing（西岸：希伯崙鎮壓行動造成數千人流離失所，高級專員警告種族清洗）｜2026 年 10 月 26 日**
 
-- 內容摘要：依第三委員會暫定議程，當日下午由巴勒斯坦被占領土調查委員會主席 Srinivasan Muralidhar、特別報告員 Francesca Albanese 與尼加拉瓜人權專家組 Jan-Michael Simon 提出報告。Albanese 報告 A/81/249〈Truth under the rubble: media in the time of genocide〉（文件日期 2026 年 7 月 21 日）提出「mediacide」概念，涵蓋記者遭殺害、拘押或被標為恐怖分子、以色列的審查與資訊控制，以及西方媒體與平台的偏差，建議聯大設立保存攻擊記者罪行證據的獨立機制，並請 ICC 檢察官調查直接且公開煽動滅絕種族的行為。調查委員會 A/81/430（預先未編輯版，10 月 14 日）首度認定以色列在西岸犯下滅絕、酷刑、強暴與性暴力、迫害等危害人類罪，並認定對加薩與西岸兒童構成基於年齡的迫害，另認定巴勒斯坦安全部隊在 2024 年 12 月傑寧事件侵害生命權。
-- 法律意義：兩份報告都屬軟法層次的事實認定與建議。Albanese 報告把「漠視記者保護與反煽動義務」作為評估滅絕種族意圖、明知與共犯的相關因素，論點在學界會有爭議；並點名 Meta、X、Google 的人權盡職調查不足。前期待確認，本期補充：文號 A/81/249、文件日期 7 月 21 日、10 月 26 日提交第三委員會。GA/SHC/4450 全文頁本期無法開啟，只確認標題與日期。
-- 來源：[UNISPAL：A/81/249](https://www.un.org/unispal/document/truth-under-the-rubble-francesca-albane-report-21jul26/)；[UNISPAL：A/81/430](https://www.un.org/unispal/document/coi-report-2026-14oct26/)；[聯合國會議報導第三委員會列表](https://press.un.org//en/content/third-committee)；[UN Web TV 第 28 次會議](https://webtv.un.org/en/asset/k1n/k1n6jbgsx4)；[第三委員會暫定議程](https://www.un.org/en/ga/third/81/pdf/provisional-list.pdf)
+- 內容摘要：以色列軍方檢查哨遇襲、兩名士兵死亡後，以色列在希伯崙展開行動，拆除住宅與商店並限制居民移動；OCHA 統計自上週五起已有逾 3,000 人被迫撤離。Türk 指出武力使用可能不必要且不合比例，集體懲罰是嚴重違反國際法，並要求讓居民返家、賠償非法驅逐與拆除。同日，被占領土獨立國際調查委員會主席 Srinivasan Muralidhar 向聯大報告，認定以色列犯下戰爭罪與危害人類罪（含滅絕、迫害、酷刑、強暴與其他性暴力），並持續在加薩犯下滅絕種族行為；以色列常駐日內瓦代表團拒絕報告結論。
+- 法律意義：高級專員聲明屬倡議性質；調查委員會報告屬事實調查與法律定性，均不具拘束力。報告文號依 UN News 所附 PDF 檔名推定為 A/81/430。依 UN News 報導；OHCHR 新聞稿原始頁面在本期判定整站故障後未開啟。
+- 來源：[UN News](https://news.un.org/en/story/2026/10/1168672)；[OHCHR 新聞稿（官方頁面未能開啟）](https://www.ohchr.org/en/press-releases/2026/10/israel-has-committed-war-crimes-and-crimes-against-humanity-occupied?sub-site=HRC)；[調查委員會報告 PDF（官方頁面未能開啟）](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/coiopt/ga-81-430-auv.pdf)
 
-**West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing（約旦河西岸：希伯倫鎮壓致數千人流離，Türk 警告種族清洗）｜2026 年 10 月 26 日**
+**UN experts allege Nicaragua's leaders may have committed crimes against humanity（尼加拉瓜人權專家小組：領導人可能犯下危害人類罪）｜2026 年 10 月 28 日（記者會）**
 
-- 內容摘要：兩名以色列士兵在檢查哨遇襲身亡後，以軍在希伯倫拆除房屋與商業設施、限制行動，逾 3,000 人被迫撤離。高級專員 Türk 指以方高層言論顯示措施帶有懲罰與恐嚇目的，要求讓流離者返家並對非法驅逐與拆屋給予賠償。
-- 法律意義：高級專員聲明，不具拘束力。明確定性的是集體懲罰（國際人道法禁止）；「種族清洗」用的是嚴重關切的措辭，不是法律認定。
-- 來源：[UN News](https://news.un.org/en/story/2026/10/1168672)
+- 內容摘要：人權理事會設立的尼加拉瓜人權專家小組主席 Jan-Michael Simon 與成員 Reed Brody 在紐約向記者表示，Ortega 與 Murillo 兩位共同總統已建立獨裁體制，有合理理由相信已發生危害人類罪，手段包括任意拘禁、強迫失蹤、政治迫害與剝奪國籍。自 2023 年 2 月起至少 452 名政治對手被宣告為「叛國者」並剝奪國籍而成為無國籍人；2018 年以來逾 5,000 個組織（多為宗教團體）遭關閉。專家呼籲各國以《減少無國籍狀態公約》為據向 ICJ 起訴尼加拉瓜。依暫定議程，專家小組 10 月 26 日下午已在第三委員會報告。
+- 法律意義：專家小組結論屬事實調查與法律定性，不具拘束力。建議以減少無國籍公約作為 ICJ 管轄依據，是在尼加拉瓜非 ICC 締約國情況下尋找國家間訴訟管道的策略。依 AP 報導（CP24 轉載）；記者會確切時刻未載明，可能接近範圍終點。
+- 來源：[CP24（AP）](https://cp24.com/news/world/2026/10/28/un-experts-allege-nicaraguas-leaders-may-have-committed-crimes-against-humanity)；[第三委員會暫定議程](https://www.un.org/en/ga/third/81/pdf/provisional-list.pdf)
 
-**Myanmar's Conflict Death Toll Surpasses 100,000, Third Committee Hears, as South Sudan's Elections Risk Triggering War（第三委員會 10 月 27 日會議：緬甸、南蘇丹、中非、北韓，GA/SHC/4451）｜2026 年 10 月 27 日**
+**'Not acceptable': UN rights chief slams US sanctions on world body's rapporteur（高級專員：美國制裁特別報告員「無法接受」）｜2026 年 10 月 28 日**
 
-- 內容摘要：秘書長緬甸特使 Julie Bishop 表示若開邦不具安全、自願、有尊嚴的遣返條件；緬甸獨立調查機制負責人 Nicholas Koumjian 表示已蒐集 1,600 多個來源與 750 多份證詞，並提供給 ICC、阿根廷聯邦法院與國際法院；新任特別報告員 Kelley Anne Eckels-Currie 指衝突相關死亡已逾 10 萬人，反對以承認軍政府換取合作。下午依議程為南蘇丹人權委員會、中非獨立專家與北韓特別報告員。
-- 法律意義：特別程序與調查機制報告屬軟法。獨立調查機制把證據提供給 ICJ（甘比亞訴緬甸案）與阿根廷普遍管轄程序，是調查機制與司法程序銜接的實例。GA/SHC/4451 全文頁無法開啟，內容依 UN News 中文版。
-- 來源：[聯合國新聞（中文）](https://news.un.org/zh/story/2026/10/1143079)；[聯合國會議報導第三委員會列表](https://press.un.org//en/content/third-committee)
+- 內容摘要：Türk 10 月 28 日在紐約記者會上表示，美國對被占領土特別報告員 Albanese 的制裁無法接受，「可以同意或不同意一個人，但絕不應制裁他們」；他也要求以色列下一屆政府停止表現得像在國際法之外，並將在下週對 ICC 締約國大會發言。
+- 法律意義：屬政治性表態。對特別程序任務負責人實施單邊制裁，涉及《聯合國特權及豁免公約》下聯合國專家的豁免與職務獨立性。依 Anadolu Agency 報導。
+- 來源：[Anadolu Agency](https://www.aa.com.tr/en/world/-not-acceptable-un-rights-chief-slams-us-sanctions-on-world-body-s-rapporteur/4104256)
 
-人權理事會會期與 UPR：本期無新發展。第 63 屆常會已於 10 月初閉幕；UPR 第 53 屆 11 月 2 日開始（見「即將發生」）。高齡者人權政府間工作小組第二屆會議 10 月 26 日至 30 日在日內瓦舉行，依 A/HRC/RES/58/13 起草具拘束力的國際文書，本期未查得會議摘要（[Indico 會議頁](https://indico.un.org/event/1019023/)）。
+人權理事會附屬機制：高齡者人權政府間工作小組第二屆會議與發展權專家機制第 14 屆會議 10 月 26 日開議，UN Transcripts 列出 26 日至 28 日各場會議紀錄，本期未查得會議成果文件。
 
 ### 條約機構（個人申訴、一般性意見）
 
-**Human Rights Committee: second reading of draft General Comment on article 22 ICCPR（人權事務委員會二讀第 22 條結社自由一般性意見草案）｜2026 年 10 月 26 日（第 4299 次會議）**
+**Human Rights Committee, 4299th meeting：Draft General Comment on Article 22（freedom of association）, second reading（人權事務委員會二讀 ICCPR 第 22 條結社自由一般性意見草案）｜2026 年 10 月 26 日**
 
-- 內容摘要：委員會逐段二讀草案。修正包括把公民不服從限定為「和平的」公民不服從、把「政府」改為「公權力機關」；新增 AI、生物辨識與監控對結社自由的影響，並把學者列為易受侵害群體；明定未登記團體不得因此被入罪或處罰；原住民族段落移到國家義務部分。在境外資金段落，委員會拒絕加入「legally」一詞，理由是可能被國家以反洗錢或國安名義用來限制境外資金。二讀還有 3 次公開會議。
-- 法律意義：通過後將是 ICCPR 第 22 條的權威解釋，與第 37 號一般性意見（和平集會）並列。境外資金與未登記團體的立場，直接回應各國「外國代理人法」的趨勢。來源是 UN Transcripts 自動語音轉錄，不是官方簡要紀錄，措辭以最終文本為準。
-- 來源：[UN Transcripts：CCPR 第 4299 次會議](https://transcripts.un.org/en/ccpr/4299)
+- 內容摘要：委員會在第 146 屆會期續行二讀。第 9 段改以「因身分或活動而處於風險的群體」為架構，明列羅姆人與遊民族群，把性工作者寫入的提案未被採納。第 12 段處理「公民不服從」，「government」改為「public authorities」，「disruptive」一詞保留並加註，委員對「集體公民不服從」範圍過廣有疑慮，有人建議參照第 37 號一般性意見限定為非暴力。第 14 段（數位、AI、生物辨識）刪除「by law enforcement」，讓公私部門的監控都納入規範，並加註聯合國《全球數位契約》。第 18 段募款權，在「尋求資金的權利」前加上「legally」的提案未獲採納，報告人認為這可能被以反洗錢措施為名濫用。原住民族相關段落移到國家義務一節。
+- 法律意義：一般性意見是條約機構對公約的權威解釋，不具條約拘束力，但委員會在報告審查與個人來文中會據以解釋。本次紀錄為自動語音轉錄，非正式紀錄，用字可能有誤；條文定稿要等二讀完成。境外資金與私人監控兩點，對各國的外國代理人立法與人民團體法規範設計影響最直接。
+- 來源：[UN Transcripts：CCPR 4299th meeting](https://transcripts.un.org/en/ccpr/4299)
 
-**Human Rights Committee review of Jamaica（人權事務委員會審查牙買加國家報告）｜2026 年 10 月 26 日至 27 日**
+**Human Rights Committee：review of Jamaica's fifth periodic report（人權事務委員會審查牙買加第五次定期報告）｜2026 年 10 月 26 日至 27 日**
 
-- 內容摘要：委員追問執法人員致命開槍案件多但起訴與定罪率低、隨身攝影機使用少、酷刑調查機關隸屬警方、2018 至 2023 年緊急狀態與特別行動區（ZOSO）常態化、官員呼籲恢復死刑、羈押擁擠與移民拘留，以及《Offences Against the Person Act》中污名化 LGBT 者的條款。代表團表示 1988 年以來未執行死刑，並稱將評估 7 個特別行動區轉型。主席要求牙買加於 10 月 29 日 13 時前提交書面答覆。
-- 法律意義：國家報告審查，結論性意見於第 146 屆會期（至 11 月 6 日）後公布。同性性行為入罪條文與 Toonen v. Australia 以來的委員會立場直接衝突。內容依 UN Transcripts 自動轉錄；UN Geneva 會議摘要（標題「In Dialogue with Jamaica, Experts of the Human Rights Committee Commend Measures to Combat Corruption, Raise Issues Concerning Fatal Police Shootings and Legislation on Homosexual Relations」）本期無法開啟。前期在「即將發生」登記過，本期補充審查內容。
-- 來源：[UN Transcripts：CCPR 第 4301 次會議](https://transcripts.un.org/en/ccpr/4301)；[UN Geneva 例行記者會 10 月 27 日](https://www.unognewsroom.org/story/en/3310/un-geneva-press-briefing-27-october-2026)
+- 內容摘要：委員追問安全部隊致命開槍由 2019 年 86 件增至 2025 年 311 件、INDECOM 調查與起訴偏少、《侵害人身罪法》第 76、77、79 條將同性性行為入罪、2025 年 5 月憲法法院宣告 24 次緊急狀態宣告違憲後的處理，以及強暴、亂倫情形的墮胎可能性。代表團表示牙買加採二元論、同性性行為條文目前未在檢討、緊急狀態判決上訴中不予評論、1988 年後未再執行死刑，墮胎法改革仍待推動；牙買加不是 CAT 締約國，也未決定加入 ICCPR 第一任擇議定書。多數統計問題代表團承諾書面補答。
+- 法律意義：屬國家報告審查的對話紀錄，結論性意見會在會期結束後公布。委員會一貫認為以刑法處罰合意同性性行為違反第 17 條與第 26 條；緊急狀態部分涉及第 4 條的克減要件。紀錄為自動轉錄，非正式紀錄。
+- 來源：[UN Transcripts：CCPR 4300th meeting](https://transcripts.un.org/en/ccpr/4300)；[UN Transcripts：CCPR 4301st meeting](https://transcripts.un.org/en/ccpr/4301)；[UN Geneva 記者會紀錄 10 月 27 日](https://transcripts.un.org/en/briefing/geneva/2026-10-27)
 
-**CEDAW 第 93 屆會期：為 10 國議題清單聽取 NGO 簡報｜2026 年 10 月 26 日（第 3039 次會議）**
+CEDAW 第 93 屆會期：10 月 26 日第 3039 次會議為 NGO 就孟加拉、俄羅斯、蒲隆地、海地、約旦、馬利、奈及利亞等國的問題清單簡報，不是國家審查。
 
-- 內容摘要：委員會為孟加拉、俄羅斯、巴貝多、蒲隆地、幾內亞、海地、約旦、馬利、密克羅尼西亞、奈及利亞的議題清單與報告前議題清單聽取 NGO 意見，議題包括奈及利亞與孟加拉的女性死刑犯、約旦女性移工，以及俄羅斯在烏克蘭占領區對婦女的暴力。
-- 法律意義：程序性步驟，議題清單決定下一輪審查重點。內容依 UN Transcripts 自動轉錄。
-- 來源：[UN Transcripts：CEDAW 第 3039 次會議](https://transcripts.un.org/en/cedaw/3039)
-
-個人申訴決定：本期未查得新公開的條約機構個人申訴決定（juris.ohchr.org 只用搜尋，結果都是舊案）。
+個人申訴決定：本期未查得新公開的條約機構個人申訴決定（site:juris.ohchr.org 搜尋無範圍內結果）。
 
 ### 特別程序
 
-第三委員會互動對話是本期特別程序的主要舞台。已確認日期與內容的，是上一節的 10 月 26 日（白俄羅斯 Muižnieks、俄羅斯 Katzarova、Albanese）與 10 月 27 日（緬甸、北韓 Salmón、中非）會議。10 月 28 日依暫定議程為蘇丹事實調查團、蒲隆地與厄利垂亞特別報告員、伊朗事實調查團與特別報告員、阿富汗特別報告員，本期未取得可開啟的報導，各專家同期新聞稿列入「待確認」。
+**Truth under the rubble: media in the time of genocide（被占領土特別報告員 Albanese 報告：瓦礫下的真相，A/81/249）｜2026 年 10 月 26 日於第三委員會提出**
 
-**專訪：OHCHR 首爾辦公室負責人談北韓人權（聯合國官員談朝鮮人權現狀：朝鮮正在變化，但孤立加劇令人擔憂）｜2026 年 10 月 26 日（頁面標示）**
+- 內容摘要：報告以「mediacide」描述以殺害證人、壓制巴勒斯坦敘事、煽動與資訊操弄來摧毀新聞工作。報告指出記者屬平民，只有直接參與敵對行為才喪失保護；電信設施應推定為民用物體。報告也檢討大型媒體過度依賴以色列官方來源，並建議成立獨立的國際證據保全機制、釋放被拘記者、開放外國記者進入加薩，以及請 ICC 檢察官調查煽動滅絕種族。
+- 法律意義：向聯大提交的主題報告屬軟法。把媒體與平台的編輯實務放進「加強型人權盡職調查」，與 UNGPs 對衝突地區企業的要求相連。前期列為待確認，本期補充：文號依 Delfino.cr 評析，提出日依聯合國會議報導列表 10 月 26 日 GA/SHC/4450 的標題（加薩記者遇害與究責），全文頁出現 Client Challenge 無法開啟。報告本身於 7 月 21 日提交。
+- 來源：[Delfino.cr 評析](https://delfino.cr/2026/10/francesca-albanese-y-la-responsabilidad-de-los-medios-ante-el-genocidio-en-gaza)；[ANI](https://aninews.in/news/world/asia/palestine-embassy-to-india-urges-global-media-to-examine-un-report-on-gaza-journalist-killings20261028180627/)；[聯合國會議報導](https://press.un.org/en)
 
-- 內容摘要：OHCHR 首爾辦公室負責人 James Heenan 表示，十年報告以 314 次深度訪談為基礎；北韓新法大量把取得外國資訊入罪，強迫勞動（含學童）普遍，出身成分仍決定個人處境，智慧型手機只能連封閉內網，反而可能強化監控。
-- 法律意義：訪談，無規範效力；可作為北韓強迫勞動對供應鏈盡職調查的背景。與前期北韓遣返報導主題不同。
-- 來源：[聯合國新聞（中文）](https://news.un.org/zh/story/2026/10/1143071)
+**緬甸議題在第三委員會（Third Committee：Myanmar, South Sudan）｜2026 年 10 月 27 日**
+
+- 內容摘要：聯合國會議報導 10 月 27 日的標題為「Myanmar's Conflict Death Toll Surpasses 100,000, Third Committee Hears, as South Sudan's Elections Risk Triggering War」。依 DVB 報導，秘書長緬甸特使 Julie Bishop 表示衝突無法以軍事解決，羅興亞人安全自願返回的條件目前不存在，各國應尊重 ICJ 在滅絕種族公約案即將作成的判斷，並主張關係正常化應以停止暴力、人道准入與釋放政治犯為條件。同日下午議程為南蘇丹人權委員會、中非共和國獨立專家與北韓特別報告員。
+- 法律意義：屬聯大議程中的報告與互動對話，不具拘束力。會議報導全文頁兩次出現 Client Challenge，特別報告員與南蘇丹委員會的具體內容未能確認，只收錄標題與特使發言。
+- 來源：[DVB](https://english.dvb.no/un-special-envoy-rejects-military-solution-in-myanmar-warns-against-normalization/)；[聯合國會議報導](https://press.un.org/en)
+
+10 月 28 日第三委員會議程為蘇丹事實調查團、蒲隆地與厄利垂亞特別報告員，下午為伊朗事實調查團與伊朗、阿富汗特別報告員；UN Transcripts 有會議紀錄，本期未取得可核對的報導，不另收錄。
 
 ### 歐洲人權法院
 
-本期無可確認內容的新判決。依法院 10 月 27 日的預告頁，10 月 27 日宣告 Dogar v. Romania 等 3 件判決，但預告 PDF 開啟後傳回的是 10 月 20 日至 22 日的內容，法院「其他判決新聞稿」列表也未列出 10 月 27 日的新聞稿，案號與結果無法核對，列入「待確認」。範圍內法院首頁其他新聞為院長、法官出訪等機構活動，未收錄。10 月 29 日另有 22 件宣判（見「即將發生」）。
+本期無可確認的新判決內容。10 月 27 日宣告 Dogar v. Romania（23011/16）、Miron and Others v. Romania（19565/15）、Sandu and Others v. Romania（20906/21）3 件判決，ECHR 256 (2026) 預告未載明爭點，法院首頁也沒有刊出新聞稿，結果未能確認（列入待確認）。法院 10 月 27 日公布 10 月 12 日至 16 日一週的暫時措施摘要，共 62 件申請，頁面未提供准駁明細。10 月 29 日宣告的 22 件在範圍終點之後，列入即將發生。
 
 ### 美洲人權法院
 
-本期無新發展。官網個別新聞稿 PDF 一律無法開啟，西班牙文搜尋未查得範圍內宣告的判決、諮詢意見或臨時措施。巴拉圭媒體 10 月 24 日至 26 日關於 Yakye Axa 案履行監督的報導，對應前期已報導的 10 月 9 日決議，不重複。
+**Decreto 1255/2026：阿根廷依 Brítez Arce y otros vs. Argentina 判決支付賠償｜2026 年 10 月 26 日公布於官方公報（依 Litigio 報導）**
+
+- 內容摘要：阿根廷政府以第 1255/2026 號命令，撥付美洲人權法院 2022 年 11 月 16 日 Brítez Arce 案判決命令的金錢賠償，合計 23.4 萬美元。本案涉及 1992 年 Cristina Brítez Arce 在布宜諾斯艾利斯 Sardá 醫院待產期間死亡，法院認定構成產科暴力。命令只處理金錢賠償，未提及判決要求的宣導與孕產照護政策措施。
+- 法律意義：美洲人權法院判決依《美洲人權公約》第 68 條對當事國有拘束力，本則屬判決的國內履行，不是新判決。Brítez Arce 案是法院以產科暴力認定國家責任的代表性判決，履行進度可供觀察生育權判決的實際落實。官方公報原文本期未能查得，依 Litigio 與 Palabras del Derecho 報導。
+- 來源：[Litigio](https://litigio.com.ar/2026/10/28/violencia-obstetrica-el-gobierno-dispuso-cumplir-con-las-indemnizaciones-ordenadas-por-la-corte-interamericana/)；[Palabras del Derecho](https://www.palabrasdelderecho.com.ar/articulo/7076/Violencia-obstetrica-el-Gobierno-dispuso-cumplir-con-las-indemnizaciones-ordenadas-por-la-Corte-Interamericana)
+
+新判決、諮詢意見與臨時措施：本期無新發展。官網新聞稿 PDF（cp_59_2026）出現網站錯誤無法開啟。
 
 ### 其他國際與區域機構
 
-**CIDH 第 197 屆會期在巴拿馬開議（Comisión Interamericana de Derechos Humanos, 197 Período de Sesiones）｜2026 年 10 月 26 日（依 EFE／Infobae 報導）**
+**美洲人權委員會第 197 屆會期（Panamá）｜2026 年 10 月 26 日至 30 日（依報導）**
 
-- 內容摘要：會期在巴拿馬城 Parlatino 舉行，29 場公開聽證至 10 月 30 日。主席 Edgar Stuardo Ralón Orellana 開幕時強調聽證不是審判、不用來認定國家責任。首場聽證為薩爾瓦多例外狀態下的被拘禁者，其他主題含哥斯大黎加、厄瓜多、祕魯的司法獨立、美國言論與學術自由、尼加拉瓜宗教自由、古巴死刑、智利不當收養與加拿大採掘企業義務。10 月 26 日哥斯大黎加聽證中，Acojud、CEJIL、DPLF 指控行政部門以預算施壓司法；10 月 28 日 CEJIL 新聞稿指厄瓜多 2020 至 2026 年有 52 起攻擊司法人員事件、31 人死亡，並請 CIDH 進行工作訪問。
-- 法律意義：主題聽證屬監督功能，不具裁判效力，但會成為年度報告與國別報告的事實基礎。CIDH 官網本期無法開啟，以上依 EFE／Infobae 報導與 CEJIL 新聞稿。前期在「即將發生」登記過，本期補充。
-- 來源：[Infobae／EFE（10 月 26 日）](https://www.infobae.com/america/agencias/2026/10/26/cidh-instala-en-panama-casi-una-treintena-de-audiencias-de-migracion-infancia-y-libertad/)；[Infobae Panamá（10 月 27 日）](https://infobae.com/panama/2026/10/27/comision-interamericana-de-derechos-humanos-inicia-audiencias-en-panama)；[Infobae 哥斯大黎加聽證](https://www.infobae.com/costa-rica/2026/10/27/la-cidh-escucha-denuncias-por-la-independencia-judicial-en-costa-rica-mientras-el-ejecutivo-lo-rechaza/)；[CEJIL 新聞稿](https://cejil.org/comunicado-de-prensa/organizaciones-de-derechos-humanos-alertaron-a-la-cidh-sobre-graves-amenazas-a-la-independencia-judicial-en-ecuador/)
+- 內容摘要：會期在巴拿馬拉美議會舉行，公開聽證涵蓋哥斯大黎加、厄瓜多與秘魯的司法獨立，墨西哥人權捍衛者，中美洲 LGBTIQ+ 族群，薩爾瓦多例外狀態下的被拘禁者，宏都拉斯性與生殖權利，產科暴力案件的健康與司法近用，以及能源轉型關鍵礦產開採的區域聽證。依 Diario Extra 報導，厄瓜多民主制度聽證在 10 月 27 日、司法獨立聽證在 10 月 28 日。
+- 法律意義：聽證本身不作成決定，但委員會會據以發布新聞稿與年度報告，也可能啟動臨時措施。委員會官網列表長期出現網站錯誤，本則依報導整理，個別聽證結果未能確認。前期已列為即將發生，本期補充議程內容。
+- 來源：[News in America（La Estrella de Panamá）](https://newsinamerica.com/pdcc/boletin/2026/libertad-de-expresion-independencia-judicial-y-migracion-la-agenda-de-la-cidh-en-panama/)；[Diario Extra](https://www.extra.ec/noticia/justicia/cidh-abordara-democracia-independencia-judicial-ecuador-165755.html)
 
-**CIDH y RELE urgen a Venezuela a derogar la Ley contra el Odio（美洲人權委員會與言論自由特別報告處促請委內瑞拉廢止《反仇恨法》）｜2026 年 10 月 28 日（依 AlbertoNews 報導）**
+**Burkina Faso：過渡立法機關通過新刑法恢復死刑｜2026 年 10 月 20 日（前期待確認，本期補充）**
 
-- 內容摘要：委內瑞拉國民議會 9 月 29 日啟動修法，最高法院憲法庭 10 月 15 日宣告修法合憲。CIDH 與 RELE 認為部分修正不足以解決結構問題，應全面廢止，並指 2017 年至 2025 年 10 月有 85 人被控仇恨罪，其中 49 名為記者或媒體工作者。
-- 法律意義：委員會聲明不具拘束力。論理重點是言論自由不只禁止直接審查，也禁止造成寒蟬與自我審查效果的規範，與《美洲人權公約》第 13 條第 3 項間接限制的禁止一致。官方新聞稿編號未查得。
-- 來源：[AlbertoNews](https://albertonews.com/principales/cidh-y-rele-urgen-a-venezuela-a-derogar-la-ley-contra-el-odio-advierten-sobre-efectos-inhibitorios-y-de-autocensura/)
+- 內容摘要：依 Koaci 報導，人民立法議會（ALP）71 名成員一致通過刑法修正，恢復 2018 年廢除的死刑，適用於恐怖主義、反恐脈絡下的間諜與叛國、殺害直系尊親屬，以及進口過期或禁用產品致人於死等類型。司法部長 Edasso Rodrigue Bayala 在議會說明。
+- 法律意義：布吉納法索是 ICCPR 締約國，人權事務委員會第 36 號一般性意見認為已廢除死刑的國家不得恢復死刑；非洲人權委員會第 89 屆常會也剛通過支持聯大死刑暫停決議。前期因報導日期與星期不符列為待確認，本期確認表決日為 10 月 20 日（星期二），早於本期範圍，因屬前期待確認事項而補充。未查得官方公報。
+- 來源：[Koaci](https://www.koaci.com/article/2026/10/20/burkina-faso/societe/burkina-faso-la-peine-de-mort-retablie-8-ans-apres-son-abolition_201815.html)
 
-**ICJ Press Release No. 2026/25: Amendments to Articles 50 and 56 of the Rules of Court and Practice Directions III, IXbis, IXter and XII（國際法院修正《法院規則》第 50、56 條及四號實務指令）｜2026 年 10 月 27 日**
+**ICJ Press Release No. 2026/25：Amendments to Articles 50 and 56 of the Rules of Court and Practice Directions（國際法院修正法院規則第 50、56 條與數項實務指引）｜2026 年 10 月 27 日**
 
-- 內容摘要：國際法院宣布修正書狀附件文件（第 50 條）與書面程序結束後提出新文件（第 56 條）的規定，並同步修正四號實務指令。新聞稿 PDF 本期無法開啟，修正內容與生效日未能確認。
-- 法律意義：程序規則修正，影響所有訴訟與諮詢程序的證據提出。近年人權條約案（例如滅絕種族公約系列案件）書證量龐大，修正方向值得讀原文確認，本期不做推測。
+- 內容摘要：國際法院公布規則第 50 條、第 56 條及實務指引 III、IXbis、IXter、XII 的修正。本期只從新聞稿列表確認標題與日期，修正內容未能開啟確認。
+- 法律意義：屬法院程序規則修正，具體修正內容本期未能確認，不推論其效果。進行中的人權相關國家間案件（如 South Africa v. Israel、The Gambia v. Myanmar）都適用法院規則，內容確認後再補充。
 - 來源：[ICJ 新聞稿列表](https://www.icj-cij.org/press-releases)
 
-ACHPR 與非洲人權法院：本期無新發展（委員會範圍內只有 10 月 26 日兩則影片；法院網站為舊快照）。歐洲理事會：地方與區域當局大會第 51 屆會議依議程於 10 月 28 日辯論並表決〈Free to speak, free to meet: guaranteeing the rights of LGBTI persons in local communities〉報告，表決結果未能確認（見待確認）。歐盟理事會與執委會：本期未查得人權立法或決定。
+非洲人權委員會與非洲人權法院：本期無新發展（委員會最新新聞稿為 10 月 24 日南非聲明，前期已報導）。歐洲理事會：官網兩個頁面出現網站錯誤，判定整站故障，本期未能查核。歐盟：理事會新聞稿 RSS 涵蓋至 10 月 26 日，無人權相關項目；執委會與歐洲議會搜尋未見範圍內人權立法或決議。
 
 ### 跨議題：AI／勞動／環境／人權盡職調查
 
-**Notice Regarding the Uyghur Forced Labor Prevention Act Entity List（美國國土安全部：UFLPA 實體清單增列公告，FR Doc. 2026-22094）｜2026 年 10 月 28 日送檢閱，10 月 29 日刊登**
+**Notice Regarding the Uyghur Forced Labor Prevention Act Entity List（美國國土安全部：UFLPA 實體清單新增 3 家基因體企業）｜2026 年 10 月 28 日送公開檢閱，10 月 29 日刊登聯邦公報**
 
-- 內容摘要：DHS 以強迫勞動執法工作組主席身分，把 BGI Genomics、MGI Tech、Shenzhen BGI Technology 列入清單，其中兩家同時列入「自新疆採購原料」子清單。合併後清單共 190 家，取代 2026 年 8 月 3 日版本。
-- 法律意義：具拘束力的美國行政措施。列名實體產品依 UFLPA 推定為強迫勞動製造，依 19 U.S.C. 1307 禁止進口，進口商須以清楚且具說服力的證據推翻。這是生技與基因定序設備首度大規模入列，對採購定序儀或試劑的醫療、研究機構與其供應鏈都有實務影響。
-- 來源：[Federal Register 公開檢閱版](https://public-inspection.federalregister.gov/2026-22094.pdf)
+- 內容摘要：強迫勞動執法工作小組把 BGI Genomics、MGI Tech 與 Shenzhen BGI Technology（BGI Group）列入 UFLPA 第 2(d)(2)(B)(ii) 款清單，理由是有「具體且可說明的資訊」顯示其與新疆政府合作進行基因檢測，支援強迫勞動或受迫害群體的招募、運送與收容；BGI Genomics 與 BGI Group 另列入第 (v) 款清單，理由是其檢測的動植物與人類基因材料來自新疆。本次公告取代 8 月 3 日的清單，清單合計 190 家。
+- 法律意義：屬美國國內法的行政措施，列名企業的產品適用「以強迫勞動製造」的可反駁推定，進口商須以清楚且具說服力的證據推翻，否則禁止進口。值得注意的是列名理由不是工廠用工，而是以基因檢測協助監控與強迫勞動體系，執法範圍由製造供應鏈擴及技術服務。
+- 來源：[Federal Register Public Inspection, FR Doc. 2026-22094](https://public-inspection.federalregister.gov/2026-22094.pdf)
 
-**Domestic workers see progress but informality remains widespread（家事勞工處境有所進展，但非正式就業仍普遍）｜2026 年 10 月 27 日**
+**Four in five domestic workers lack formal job protections（ILO：五分之四的家事勞工欠缺正式就業保障）｜2026 年 10 月 27 日**
 
-- 內容摘要：ILO 發布統計簡報〈The state of domestic work in 2025: 15 years after Convention No. 189〉。全球 15 歲以上家事勞工 8,000 萬人，77.2% 為女性；非正式就業 6,650 萬人（83.1%），比 2019 年多 510 萬。家事勞工薪資只有其他受僱者平均月薪的 53.3%，女性為 48%；35.2% 每週工時至少 49 小時。亞太地區約占一半，非洲非正式比率高達 93.3%，阿拉伯國家幾乎全為非正式。
-- 法律意義：統計簡報，無規範效力。數據顯示 C189 批准（約 40 國）與法律納入不等於實際正式化與同酬，對評估移工與照顧工作的國內立法是實證素材。前期在「即將發生」登記過，本期補充。
-- 來源：[ILO 新聞](https://www.ilo.org/resource/news/domestic-workers-see-progress-informality-remains-widespread)；[UN News](https://news.un.org/en/story/2026/10/1168683)
+- 內容摘要：ILO 發布家事勞工全球與區域新估計，2025 年全球約 8,000 萬人從事家事工作（2019 年為 7,560 萬），其中 6,650 萬人屬非正式就業；非洲非正式比率 93.3%，阿拉伯國家「近乎全面」。女性占 77.2%，平均月薪只有其他受僱者的 53.3%，非正式者為 48.7%；近 15% 每週工作 60 小時以上。《家事勞工公約》（第 189 號）通過 15 年，批准國約 40 國，ILO 呼籲亞太、非洲與阿拉伯國家批准。
+- 法律意義：屬統計與政策報告，不具拘束力，但可作為 ILO 監督機制審查 C189 與 C190 適用的事實基礎。前期已登記為預告，本期補充內容；ILO 官網新聞頁本期遭攔截，依 UN News 與日內瓦記者會紀錄。
+- 來源：[UN News](https://news.un.org/en/story/2026/10/1168683)；[UN Geneva 記者會紀錄 10 月 27 日](https://transcripts.un.org/en/briefing/geneva/2026-10-27)
 
-**European Union: Tighten Surveillance Export Controls（歐盟應收緊監控科技出口管制）｜2026 年 10 月 26 日（NGO 聯署）**
+**Women and girls' share of civilian war deaths doubles since 2021（秘書長婦女、和平與安全年度報告：婦女與女童占戰爭平民死亡比例自 2021 年倍增）｜2026 年 10 月 26 日**
 
-- 內容摘要：Human Rights Watch 等 9 個團體回應執委會對《兩用物項條例》（Regulation (EU) 2021/821）評估的公開諮詢，要求對清單內外的網路監控物項強化人權審查、採用與 CSDDD 一致的盡職調查、強化 catch-all 條款並公開許可資訊，並批評 2024 年兩份執委會建議削弱法規。
-- 法律意義：NGO 倡議文件，無法律效力。把出口管制與 CSDDD 盡職調查標準接軌的主張，對科技業出口合規值得留意。
-- 來源：[Human Rights Watch](https://hrw.org/news/2026/10/26/european-union-tighten-surveillance-export-controls)
+- 內容摘要：報告指出 2025 年逾 3.7 萬名平民死於武裝衝突，婦女與女童約占四分之一；聯合國核實的衝突相關性暴力 9,788 件，較前一年倍增，海地通報案件增加 163%。加薩活產數下降 41%、流產增加 300%。57 個和平進程中女性談判代表只占 5%，13 份停火協議沒有一份明文禁止衝突相關性暴力。安理會 10 月 27 日起就此舉行公開辯論。
+- 法律意義：秘書長報告屬政策文件，不具拘束力，但是安理會 1325 號決議體系的年度審查基礎。加薩生育照護崩潰的數據，與健康權及生育權的武裝衝突適用直接相關。報告文號頁面未載明。
+- 來源：[UN News](https://news.un.org/en/story/2026/10/1168673)；[UN News 安理會辯論](https://news.un.org/en/story/2026/10/1168684)
 
-**埃及法院下令關閉獨立媒體 Mada Masr 並對總編 Lina Attalah 處以罰款｜2026 年 10 月 27 日（依 Amnesty International 與 HRW 報導）**
+**背景（2026 年 10 月 20 日）：波蘭眾議院通過放寬墮胎限制法案**
 
-- 內容摘要：New Cairo Misdemeanours Court 以「未經許可經營網站」（最高國安檢察署移送，Case No. 9072/2026）判處最高 300 萬埃鎊罰款、關閉網站並沒收設備，Attalah 被羈押至繳清罰款。法院只開一次庭，拒絕延期與調查證據聲請。
-- 法律意義：屬國內法院判決，判決原文未取得。HRW 援引 ICCPR 第 19 條與 CCPR 第 34 號一般性意見「不得僅因網站批評政府而禁止」；Amnesty 主張登記制度不得作為事前限制。
-- 來源：[Amnesty International](https://www.amnesty.org/en/latest/news/2026/10/egypt-caourt-order-to-shut-down-and-fine-mada-masr-a-devastating-blow-to-media-freedom/)；[Human Rights Watch](https://www.hrw.org/news/2026/10/27/egypt-drop-charges-against-prominent-journalist)
+- 依路透報導，波蘭眾議院表決通過允許胎兒異常時墮胎、並將協助墮胎除罪的法案，用以回復 2020 年憲法法庭判決造成的近乎全面禁止；12 週內依請求墮胎的草案仍在委員會。總統 Nawrocki 已表示可能否決。歐洲人權法院 2023 年 M.L. v. Poland 判決曾認定該禁令違反第 8 條，本法案是判決執行的一部分背景。
+- 來源：[Reuters（Internazionale 轉載）](https://www.internazionale.it/ultime-notizie-reuters/2026/10/20/polish-lawmakers-vote-to-ease-abortion-ban-but-face-likely-presidential-veto)
 
-工商人權條約：第 12 屆談判實際在 10 月 12 日至 16 日舉行，不在本期範圍。CSDDD／Omnibus、EU 強迫勞動產品禁令、歐洲理事會 AI 框架公約、C190 與氣候訴訟：本期未查得範圍內的新官方文件。
+AI、CSDDD／Omnibus、EU 強迫勞動產品禁令、工商人權條約、氣候訴訟：本期未查得範圍內的新官方文件。歐洲理事會 AI 框架公約最新進展仍是 5 月歐盟批准。
 
 ## 三、對台灣的意義
 
-UFLPA 清單擴及基因定序與生技設備：台灣醫療院所、研究機構與生技業採購或轉售 BGI／MGI 設備、試劑，若產品或零組件流向美國，會落入可反駁推定。對做出口合規與人權盡職調查的客戶，這次增列提醒供應鏈盤點不能只看紡織、太陽能與電子，生技耗材也要納入。
+UFLPA 名單擴及基因體與檢測服務：台灣醫院、研究機構與生技公司若使用 MGI 定序儀或 BGI 試劑，再把產品或服務出口到美國，進口端會碰到可反駁推定。這次列名理由是「以技術服務支援監控與強迫勞動體系」，企業的人權盡職調查不能只看工廠用工，還要盤點設備與技術供應商。建議客戶先清查採購紀錄與對美出口品項。
 
-ICCPR 第 22 條一般性意見草案：台灣以《公民與政治權利國際公約及經濟社會文化權利國際公約施行法》第 3 條要求參照委員會解釋，定稿後會成為解釋人民團體登記、工會組織與境外資金限制的依據。草案明定「未登記團體不得因此被入罪或處罰」，可對照《人民團體法》與相關修法討論；AI 與生物辨識監控的段落，也與集會遊行現場的科技執法有關。
+結社自由一般性意見與兩公約施行法：《公民與政治權利國際公約及經濟社會文化權利國際公約施行法》第 3 條要求參照人權事務委員會的解釋。第 22 條一般性意見草案拒絕把募款權限縮為「合法」募款，並把私人監控納入規範，對未來修訂人民團體法、討論境外資金揭露或外國代理人立法，會是國際審查時的比對基準。
 
-CRPD 第三次國家報告國際審查將於 11 月 17 日至 19 日舉行，屬國內自主審查機制，國家人權委員會的獨立評估意見值得追蹤。
+CRPD 國家報告審查在即：衛福部公告 CRPD 第三次國家報告國際審查會議 11 月 17 日至 19 日舉行，11 月 22 日發表結論性意見（見即將發生）。
 
 ## 四、即將發生
 
 - **2026 年 10 月 29 日**｜聯大第三委員會與健康環境權、氣候變遷、有害物質特別報告員及工商企業與人權工作小組互動對話（暫定議程，可能變動）（[來源](https://www.un.org/en/ga/third/81/pdf/provisional-list.pdf)）
-- **2026 年 10 月 29 日**｜歐洲人權法院宣告 22 件判決或裁定，包括 Genderdoc-M v. Moldova（23907/15）與 Lo Sicco v. Italy（14417/09）（[來源](https://www.echr.coe.int/e/news-copy-/20132/10475893)）
-- **2026 年 10 月 29 日**｜UFLPA 實體清單增列 BGI 集團 3 家，於聯邦公報正式刊登（[來源](https://public-inspection.federalregister.gov/2026-22094.pdf)）
-- **2026 年 11 月 2 日**｜UPR 工作小組第 53 屆會議開始，11 月 10 日審查美國，11 月 13 日通過報告（時程暫定）（[來源](https://upr-info.org/sites/default/files/general-document/2025-12/timetable_upr_53.pdf)）
-- **2026 年 11 月 17 日**｜台灣 CRPD 第三次國家報告國際審查會議（至 11 月 19 日；結論性意見記者會 11 月 22 日）（[來源](https://crpd.sfaa.gov.tw/BulletinCtrl?func=getBulletin&p=b_2&c=D&bulletinId=2086)）
-- **2026 年 11 月 19 日**｜ILO 理事會預定通過結社自由委員會報告後公布（[來源](https://www.ilo.org/resource/conference-paper/gb/gb358/report-committee-freedom-association)）
-- **2026 年 12 月 16 日**｜歐洲人權法院大法庭就 Macagnino and Marzo v. Italy 與 Cavallotti and Others v. Italy 聽審（[來源](https://www.echr.coe.int/cases-pending-before-the-grand-chamber)）
-- **2027 年 1 月 20 日**｜歐洲人權法院大法庭就 Z and Others v. Finland（42758/23）聽審（[來源](https://www.echr.coe.int/cases-pending-before-the-grand-chamber)）
+- **2026 年 10 月 29 日**｜歐洲人權法院宣告 22 件判決或裁定，包括 Genderdoc-M v. the Republic of Moldova（23907/15）、Lo Sicco v. Italy（14417/09，黑手黨結社定罪的可預見性與沒收）（[來源](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8670566-12366148&filename=Forthcoming%20judgments%20and%20decisions%2027-29.10.2026.pdf)）
+- **2026 年 10 月 29 日**｜美國 UFLPA 實體清單新增 3 家基因體企業，刊登聯邦公報（[來源](https://public-inspection.federalregister.gov/2026-22094.pdf)）
+- **2026 年 11 月 2 日**｜UPR 工作小組第 53 屆會議（至 11 月 13 日，時程暫定）：匈牙利 11 月 4 日、泰國 11 月 9 日、美國 11 月 10 日受審（[來源](https://upr-info.org/sites/default/files/general-document/2025-12/timetable_upr_53.pdf)）
+- **2026 年 11 月 17 日**｜台灣 CRPD 第三次國家報告國際審查會議（至 11 月 19 日，11 月 22 日發表結論性意見）（[來源](https://www.mohw.gov.tw/cp-101-88074-1.html)）
+- **2026 年 12 月 2 日**｜歐洲人權法院就 Ahmad v. Denmark 與 Makki v. Denmark 舉行公開聽審（[來源](https://www.echr.coe.int/e/news-copy-/20132/10475893)）
+- **2026 年 12 月 16 日**｜歐洲人權法院就 Macagnino and Marzo v. Italy 與 Cavallotti and Others v. Italy 舉行公開聽審（[來源](https://www.echr.coe.int/e/news-copy-/20132/10475893)）
+- **2027 年 1 月 13 日**｜歐洲人權法院就 Knopp v. Hungary 舉行公開聽審（[來源](https://www.echr.coe.int/e/news-copy-/20132/10475893)）
 
 ## 五、待確認
 
-- 歐洲人權法院 10 月 27 日宣告的 Dogar v. Romania 等 3 件判決：預告頁確認當日宣判，但新聞稿與 HUDOC 判決未能開啟，案號與結果無法核對。[ECtHR 預告頁](https://www.echr.coe.int/e/news-copy-/20132/10475893)
-- OHCHR 10 月下旬新聞稿：搜尋結果出現〈Israel has committed war crimes and crimes against humanity in the Occupied Palestinian Territory amid continuing genocide in Gaza〉〈Israel's war on journalists is a war on truth itself, UN expert tells General Assembly〉〈South Sudan: UN Commission calls on General Assembly to take urgent, collective action〉〈Russia must stop punishing critics as 'traitors to the Motherland'〉〈Iran: UN experts urge immediate halt to executions〉〈UN expert calls for robust human rights-based oversight of technology companies operating in transitional justice settings〉等，但 ohchr.org 個別頁本期全部無法開啟，發布日期無法從原頁確認。
-- 第三委員會 10 月 28 日會議（蘇丹事實調查團、蒲隆地、厄利垂亞、伊朗事實調查團與特別報告員、阿富汗特別報告員）：日程依暫定議程，會議報導與新聞稿本期未能取得。[第三委員會暫定議程](https://www.un.org/en/ga/third/81/pdf/provisional-list.pdf)
-- 歐洲理事會地方與區域當局大會 LGBTI 報告：議程排定 10 月 28 日表決決議與建議草案，通過與否未能確認。[議程 CG(2026)51-OJ](https://rm.coe.int/cg-2026-51-oj-en/48802d086d)
-- CIDH 就 María Corina Machado 返國發布聲明：依 Infobae 10 月 27 日報導，CIDH 提醒委內瑞拉保護其生命、人身完整與政治權利，聲明確切日期與官方原文未能確認。[Infobae](https://www.infobae.com/venezuela/2026/10/27/la-cidh-recordo-al-gobierno-venezolano-su-obligacion-de-proteger-a-maria-corina-machado-tras-su-regreso-al-pais/)
-- 布吉納法索恢復死刑（前期待確認，本期補充）：依 Ouestaf 與 NotreAfrik 報導，過渡立法機關 Assemblée législative du peuple 於 10 月 20 日以 71 票全數通過新刑法，表決日在本期範圍之前；截至 10 月 23 日未見官方公報刊登，官方文件仍未查得。[Ouestaf](https://www.ouestaf.com/burkina-faso-le-parlement-adopte-le-retablissement-de-la-peine-de-mort/)；[NotreAfrik](https://notreafrik.com/peine-de-mort-burkina-vote/)
+- 歐洲人權法院 10 月 27 日 Dogar v. Romania 等 3 件判決的結果：預告未載明爭點，法院首頁無新聞稿，HUDOC 判決頁未出現在搜尋結果中。[Forthcoming judgments 27-29.10.2026](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8670566-12366148&filename=Forthcoming%20judgments%20and%20decisions%2027-29.10.2026.pdf)
+- OHCHR「Human rights records of 14 States set to be examined by Universal Periodic Review mechanism」新聞稿：出現在搜尋結果，但本期判定 OHCHR 整站故障後未開啟，發布日未能確認；受審國家與日程已由 UPR Info 時程表確認。[OHCHR（官方頁面未能開啟）](https://ohchr.org/en/press-releases/2026/10/human-rights-records-14-states-set-be-examined-universal-periodic-review)
+- 第三委員會 10 月 27 日緬甸特別報告員與南蘇丹人權委員會、10 月 28 日蘇丹與伊朗事實調查團的發言內容：聯合國會議報導全文頁出現 Client Challenge，只確認了 10 月 27 日的標題。
+- 阿根廷第 1255/2026 號命令的官方公報原文：搜尋未找到 Boletín Oficial 頁面，目前依兩家法律媒體報導。
 
 ## 六、來源清單
 
-- [Russian authorities committed crimes against humanity through attacks on Ukraine's energy infrastructure（聯合國駐烏克蘭辦公室）](https://ukraine.un.org/en/325200-russian-authorities-committed-crimes-against-humanity-through-attacks-ukraine%E2%80%99s-energy)
 - [Ukraine: Investigators find Russia committed war crimes by targeting civilians（UN News）](https://news.un.org/en/story/2026/10/1168670)
 - [West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing（UN News）](https://news.un.org/en/story/2026/10/1168672)
-- [Truth under the rubble: media in the time of genocide, A/81/249（UNISPAL）](https://www.un.org/unispal/document/truth-under-the-rubble-francesca-albane-report-21jul26/)
-- [Report of the Commission of Inquiry, A/81/430（UNISPAL）](https://www.un.org/unispal/document/coi-report-2026-14oct26/)
-- [Third Committee meetings coverage（press.un.org）](https://press.un.org//en/content/third-committee)
-- [Third Committee 28th plenary meeting（UN Web TV）](https://webtv.un.org/en/asset/k1n/k1n6jbgsx4)
-- [Third Committee provisional list of speakers（UN）](https://www.un.org/en/ga/third/81/pdf/provisional-list.pdf)
-- [緬甸危機：聯合國官員警告衝突惡化（聯合國新聞）](https://news.un.org/zh/story/2026/10/1143079)
-- [專訪：聯合國官員談朝鮮人權現狀（聯合國新聞）](https://news.un.org/zh/story/2026/10/1143071)
-- [Second session, IGWG on the human rights of older persons（Indico）](https://indico.un.org/event/1019023/)
+- [Israel has committed war crimes and crimes against humanity（OHCHR，官方頁面未能開啟）](https://www.ohchr.org/en/press-releases/2026/10/israel-has-committed-war-crimes-and-crimes-against-humanity-occupied?sub-site=HRC)
+- [Women and girls' share of civilian war deaths doubles since 2021（UN News）](https://news.un.org/en/story/2026/10/1168673)
+- [Security Council LIVE: Women and girls face greater dangers in war（UN News）](https://news.un.org/en/story/2026/10/1168684)
+- [Four in five domestic workers lack formal job protections（UN News）](https://news.un.org/en/story/2026/10/1168683)
+- [World News in Brief 27 October 2026（UN News）](https://news.un.org/en/story/2026/10/1168682)
+- [UN News 新聞列表](https://news.un.org/en/news)
+- [UN Meetings Coverage and Press Releases](https://press.un.org/en)
+- [Third Committee provisional list（UN）](https://www.un.org/en/ga/third/81/pdf/provisional-list.pdf)
+- [UN Transcripts](https://transcripts.un.org/)
 - [CCPR 4299th meeting（UN Transcripts）](https://transcripts.un.org/en/ccpr/4299)
+- [CCPR 4300th meeting（UN Transcripts）](https://transcripts.un.org/en/ccpr/4300)
 - [CCPR 4301st meeting（UN Transcripts）](https://transcripts.un.org/en/ccpr/4301)
 - [CEDAW 3039th meeting（UN Transcripts）](https://transcripts.un.org/en/cedaw/3039)
-- [UN Geneva Press Briefing 27 October 2026（UNOG Newsroom）](https://www.unognewsroom.org/story/en/3310/un-geneva-press-briefing-27-october-2026)
-- [Human Rights Committee 146th session（CCPR Centre）](https://ccprcentre.org/ccprpages/human-rights-committee-146th-session-19-october-6-november-2026)
-- [Forthcoming judgments and decisions（ECtHR）](https://www.echr.coe.int/e/news-copy-/20132/10475893)
-- [Cases pending before the Grand Chamber（ECtHR）](https://www.echr.coe.int/cases-pending-before-the-grand-chamber)
-- [CIDH instala en Panamá casi una treintena de audiencias（Infobae／EFE）](https://www.infobae.com/america/agencias/2026/10/26/cidh-instala-en-panama-casi-una-treintena-de-audiencias-de-migracion-infancia-y-libertad/)
-- [Comisión Interamericana de Derechos Humanos inicia audiencias en Panamá（Infobae Panamá）](https://infobae.com/panama/2026/10/27/comision-interamericana-de-derechos-humanos-inicia-audiencias-en-panama)
-- [La CIDH escucha denuncias por la independencia judicial en Costa Rica（Infobae）](https://www.infobae.com/costa-rica/2026/10/27/la-cidh-escucha-denuncias-por-la-independencia-judicial-en-costa-rica-mientras-el-ejecutivo-lo-rechaza/)
-- [Organizaciones alertaron a la CIDH sobre graves amenazas a la independencia judicial en Ecuador（CEJIL）](https://cejil.org/comunicado-de-prensa/organizaciones-de-derechos-humanos-alertaron-a-la-cidh-sobre-graves-amenazas-a-la-independencia-judicial-en-ecuador/)
-- [CIDH y RELE urgen a Venezuela a derogar la Ley contra el Odio（AlbertoNews）](https://albertonews.com/principales/cidh-y-rele-urgen-a-venezuela-a-derogar-la-ley-contra-el-odio-advierten-sobre-efectos-inhibitorios-y-de-autocensura/)
-- [La CIDH recordó al gobierno venezolano su obligación de proteger a María Corina Machado（Infobae）](https://www.infobae.com/venezuela/2026/10/27/la-cidh-recordo-al-gobierno-venezolano-su-obligacion-de-proteger-a-maria-corina-machado-tras-su-regreso-al-pais/)
-- [ICJ press releases](https://www.icj-cij.org/press-releases)
-- [ACHPR news](https://achpr.au.int/en/news)
-- [Congress 51st session agenda CG(2026)51-OJ（Council of Europe）](https://rm.coe.int/cg-2026-51-oj-en/48802d086d)
-- [UFLPA Entity List notice, FR Doc. 2026-22094（Federal Register）](https://public-inspection.federalregister.gov/2026-22094.pdf)
-- [Domestic workers see progress but informality remains widespread（ILO）](https://www.ilo.org/resource/news/domestic-workers-see-progress-informality-remains-widespread)
-- [Four in five domestic workers lack formal job protections（UN News）](https://news.un.org/en/story/2026/10/1168683)
-- [Report of the Committee on Freedom of Association, GB.358（ILO）](https://www.ilo.org/resource/conference-paper/gb/gb358/report-committee-freedom-association)
-- [European Union: Tighten Surveillance Export Controls（HRW）](https://hrw.org/news/2026/10/26/european-union-tighten-surveillance-export-controls)
-- [Egypt: Court order to shut down and fine Mada Masr（Amnesty International）](https://www.amnesty.org/en/latest/news/2026/10/egypt-caourt-order-to-shut-down-and-fine-mada-masr-a-devastating-blow-to-media-freedom/)
-- [Egypt: Drop charges against prominent journalist（HRW）](https://www.hrw.org/news/2026/10/27/egypt-drop-charges-against-prominent-journalist)
-- [Amnesty International latest](https://www.amnesty.org/en/latest/)
+- [UN Geneva Press Briefing 27 October 2026（UN Transcripts）](https://transcripts.un.org/en/briefing/geneva/2026-10-27)
+- [UN experts allege Nicaragua's leaders may have committed crimes against humanity（CP24／AP）](https://cp24.com/news/world/2026/10/28/un-experts-allege-nicaraguas-leaders-may-have-committed-crimes-against-humanity)
+- ['Not acceptable': UN rights chief slams US sanctions on world body's rapporteur（Anadolu Agency）](https://www.aa.com.tr/en/world/-not-acceptable-un-rights-chief-slams-us-sanctions-on-world-body-s-rapporteur/4104256)
+- [Francesca Albanese y la responsabilidad de los medios ante el genocidio en Gaza（Delfino.cr）](https://delfino.cr/2026/10/francesca-albanese-y-la-responsabilidad-de-los-medios-ante-el-genocidio-en-gaza)
+- [Palestine embassy to India urges global media to examine UN report on Gaza journalist killings（ANI）](https://aninews.in/news/world/asia/palestine-embassy-to-india-urges-global-media-to-examine-un-report-on-gaza-journalist-killings20261028180627/)
+- [UN Special Envoy rejects military solution in Myanmar, warns against normalization（DVB）](https://english.dvb.no/un-special-envoy-rejects-military-solution-in-myanmar-warns-against-normalization/)
+- [ECtHR 首頁](https://www.echr.coe.int/)
+- [Forthcoming Judgments & Decisions（ECtHR）](https://www.echr.coe.int/e/news-copy-/20132/10475893)
+- [Forthcoming judgments and decisions 27-29.10.2026（HUDOC）](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8670566-12366148&filename=Forthcoming%20judgments%20and%20decisions%2027-29.10.2026.pdf)
+- [Weekly summary of interim measures（ECtHR）](https://www.echr.coe.int/w/weekly-summary-of-interim-measures-1)
 - [Strasbourg Observers](https://strasbourgobservers.com/)
-- [UPR 53 timetable（UPR Info）](https://upr-info.org/sites/default/files/general-document/2025-12/timetable_upr_53.pdf)
-- [CRPD 第三次國家報告國際審查會議公告（衛福部社家署）](https://crpd.sfaa.gov.tw/BulletinCtrl?func=getBulletin&p=b_2&c=D&bulletinId=2086)
-- [Burkina Faso : le Parlement adopte le rétablissement de la peine de mort（Ouestaf）](https://www.ouestaf.com/burkina-faso-le-parlement-adopte-le-retablissement-de-la-peine-de-mort/)
-- [Peine de mort : le vote au Burkina（NotreAfrik）](https://notreafrik.com/peine-de-mort-burkina-vote/)
-- [Hamurabi Huesca（La Jornada）](https://www.jornada.com.mx/2026/10/24/estados/021n3est?partner=rss)
+- [Violencia obstétrica: el Gobierno dispuso cumplir con las indemnizaciones ordenadas por la Corte Interamericana（Litigio）](https://litigio.com.ar/2026/10/28/violencia-obstetrica-el-gobierno-dispuso-cumplir-con-las-indemnizaciones-ordenadas-por-la-corte-interamericana/)
+- [Violencia obstétrica（Palabras del Derecho）](https://www.palabrasdelderecho.com.ar/articulo/7076/Violencia-obstetrica-el-Gobierno-dispuso-cumplir-con-las-indemnizaciones-ordenadas-por-la-Corte-Interamericana)
+- [Libertad de expresión, independencia judicial y migración: la agenda de la CIDH en Panamá（News in America）](https://newsinamerica.com/pdcc/boletin/2026/libertad-de-expresion-independencia-judicial-y-migracion-la-agenda-de-la-cidh-en-panama/)
+- [La CIDH abordará el estado de la democracia y la independencia judicial en Ecuador（Diario Extra）](https://www.extra.ec/noticia/justicia/cidh-abordara-democracia-independencia-judicial-ecuador-165755.html)
+- [Burkina Faso : la peine de mort rétablie 8 ans après son abolition（Koaci）](https://www.koaci.com/article/2026/10/20/burkina-faso/societe/burkina-faso-la-peine-de-mort-retablie-8-ans-apres-son-abolition_201815.html)
+- [ICJ press releases](https://www.icj-cij.org/press-releases)
+- [ACHPR 新聞列表](https://achpr.au.int/en/news)
+- [AfricanLII：AfCHPR 2026 judgments](https://africanlii.org/en/judgments/AfCHPR/2026/)
+- [歐盟理事會新聞稿 RSS](https://www.consilium.europa.eu/en/rss/pressreleases.ashx)
+- [Notice Regarding the UFLPA Entity List, FR Doc. 2026-22094（Federal Register）](https://public-inspection.federalregister.gov/2026-22094.pdf)
+- [ILO ongoing and forthcoming events](https://www.ilo.org/meetings-and-events/ongoing-upcoming)
+- [Polish lawmakers vote to ease abortion ban（Reuters／Internazionale）](https://www.internazionale.it/ultime-notizie-reuters/2026/10/20/polish-lawmakers-vote-to-ease-abortion-ban-but-face-likely-presidential-veto)
+- [What's New: Week of October 26（I-CONnect）](https://www.iconnectblog.com/whats-new-week-of-october-26/)
+- [UPR Session 53（UPR Info）](https://upr-info.org/en/session/session-53-november-2026)
+- [Timetable UPR 53（UPR Info）](https://upr-info.org/sites/default/files/general-document/2025-12/timetable_upr_53.pdf)
+- [身心障礙者權利公約第三次國家報告國際審查會議（衛生福利部）](https://www.mohw.gov.tw/cp-101-88074-1.html)
+- [Human rights records of 14 States set to be examined by UPR（OHCHR，官方頁面未能開啟）](https://ohchr.org/en/press-releases/2026/10/human-rights-records-14-states-set-be-examined-universal-periodic-review)
 
 ## 七、本期檢查紀錄
 
-查找範圍：台北時間 2026 年 10 月 25 日 15:26 至 10 月 29 日 03:26（週四期，往前 72 小時另加 12 小時緩衝，共 84 小時），即 UTC 10 月 25 日 07:26 至 10 月 28 日 19:26。涵蓋日期：10 月 25 日（下午起）、26 日、27 日、28 日、29 日（凌晨）。前 2 期（10 月 22 日、10 月 26 日）已報導的 CEDAW 第 41 號、CCPR 盧安達／喀麥隆／奧地利、ECtHR 10 月 22 日判決、ACHPR 南非、沙卡洛夫獎、ECRI 丹麥、ILO AI 工作論文等，本期未重複；牙買加審查、CIDH 第 197 屆會期、ILO 家事勞工數據、Albanese 報告為前期追蹤事項，本期補充。
+本期為手動重跑版本。依手動執行指示，查找範圍不因實際執行時間延後而延長；避免重複比對 10 月 22 日、10 月 26 日兩期，第一次執行版本只作為網址線索。
 
-本期執行說明：本期分四組平行檢查（聯合國來源、區域機制、ICJ／ILO／歐洲理事會／歐盟／台灣、主題廣泛檢索）。全部搜尋合計達到本次執行的搜尋上限 200 次後無法再搜尋，因此 10 月 28 日的第三委員會會議與 OHCHR 新聞稿無法補查，列入待確認。
+查找範圍：台北時間 2026 年 10 月 25 日 15:26 至 10 月 29 日 03:26（週四期，往前 72 小時另加 12 小時緩衝）。涵蓋日期：10 月 25 日（下午起）、26 日、27 日、28 日、29 日（凌晨）。
+
+前期追蹤：10 月 26 日期「即將發生」中的第三委員會 10 月 26 日議程、ILO 家事勞工估計、美洲人權委員會第 197 屆會期、高齡者工作小組，本期均已補充；「待確認」中的 Albanese 報告與布吉納法索死刑已確認並補充；美洲人權委員會言論自由報告處就 Hamurabi Huesca 遇害的聲明，補查後仍未找到官方或可核對的報導，且事件在範圍外，本期不再列入。
 
 固定來源
 
-1. OHCHR 新聞：首頁 /en/ohchr_homepage 可開啟，但回傳 2026 年 2 月的舊快照；site:ohchr.org/en/press-releases 搜尋找到 10 月新聞稿 9 則以上，個別頁全部出現網站錯誤（試 8 次）；改用 UN News 英文與中文、聯合國駐烏克蘭辦公室、UNISPAL；有新項目（替代管道）。
-2. 人權理事會首頁：已開啟，只有無日期專題；無新項目。高齡者工作小組改用 Indico 會議頁確認。
-3. 條約機構判例資料庫（只用搜尋）：site:juris.ohchr.org 與 communication No. 搜尋結果均為舊案；無新項目。
-4. 條約機構總覽與 UN Geneva 會議摘要：總覽頁只有一則無日期新聞；UN Geneva 會議摘要列表與個別頁被 robots 規則擋下，無法開啟；改用 UN Transcripts（列表翻到 10 月 23 日，已到範圍起點之前）與 UNOG Newsroom；有新項目（替代管道，非官方轉錄）。
-5. 特別程序：首頁無列表；site: 搜尋找到多則 10 月新聞稿，個別頁無法開啟；第三委員會部分改用暫定議程、UN Web TV 與 UN News；有新項目（替代管道），多則列入待確認。
-6. 聯合國會議報導：首頁與第三委員會列表頁已開啟，列表翻到 10 月 12 日；確認 GA/SHC/4450（10 月 26 日）、4451（10 月 27 日）標題與日期，全文頁出現 Client Challenge 無法開啟；UN News 英文列表最早到 10 月 26 日，下一頁無法開啟；10 月 28 日項目未見。
-7. 歐洲人權法院：首頁權限逾時無法開啟；改用同站新聞列表（從 10 月 28 日回溯到 22 日，已到範圍起點之前）、預告頁與大法庭待審案件頁；預告 PDF 傳回 10 月 20 日至 22 日內容；10 月 27 日判決列入待確認。
-8. 美洲人權法院（只用搜尋）：搜到 cp_54 至 cp_63_2026 等 PDF 網址，均出現網站錯誤；IberICONnect 與 Justiça Internacional 未見本週彙整；無可確認的新項目。
-9. 美洲人權委員會（只用搜尋）：oas.org 個別頁兩次均出現網站錯誤；改用 EFE／Infobae、CEJIL、AlbertoNews、La Jornada；有新項目（依報導）。
-10. 非洲人權委員會與非洲人權法院：委員會新聞頁已開啟（回溯到 10 月 17 日），範圍內僅兩則影片；法院網站各列表為舊快照（最新 2026 年 3 月），改查 AfricanLII（最新判決 7 月 6 日）；無新項目。
-11. 國際法院新聞稿：已開啟（列表回溯到 6 月）；有新項目（No. 2026/25），新聞稿 PDF 權限逾時無法開啟。
-12. ILO 新聞：已開啟，列表最早到 10 月 26 日（10 月 25 日週日未直接涵蓋，搜尋亦未見）；有新項目（家事勞工）；另有北馬其頓尊嚴勞動國家計畫（10 月 27 日）、印尼移工服務中心（10 月 26 日），與人權法關聯較弱未收錄。
-13. 歐洲理事會新聞：英文版 full-news 回傳 2024 年舊快照，法文版為舊快照（最新 10 月 20 日）；地方大會新聞頁、威尼斯委員會、GRETA 法文頁無法開啟；GRETA 英文頁最新 6 月 12 日（過舊），CPT 最新 9 月 18 日，人權專員最新 10 月 23 日；改用議程 PDF；無可確認的新項目。
-14. 歐盟：理事會新聞稿列表無法開啟，改用 RSS（最舊 10 月 21 日，10 月 26 日有 5 則與人權無直接關係，10 月 27 日後無項目，可能是延遲）；執委會以 site: 搜尋；無新項目。
-15. 台灣國家人權委員會：n=7479 頁回傳 2023 年項目，疑似舊快照；n=9772 最新消息停在 115 年 8 月 15 日；法務部人權大步走最新 10 月 14 日，CRPD 專網最新 10 月 19 日；無新項目。
+1. OHCHR 新聞：首頁新聞列表只回傳 2026 年 2 月 13 日的舊快照；人權理事會首頁亦為舊快照（最新日期 2021 年）。同站連續兩頁異常，判定整站故障，之後未再開啟任何 OHCHR 頁面。替代管道：UN News 列表（已開啟，涵蓋 10 月 26 日至 27 日；第 2 頁回傳舊快照）、press.un.org 首頁（已開啟，涵蓋 10 月 23 日至 27 日，已到範圍起點之前）、UN Transcripts（已開啟，涵蓋 10 月 23 日至 28 日）。有新項目（依 UN News 等報導）。
+2. 人權理事會首頁與會期頁：舊快照；改以 UN Transcripts 確認高齡者工作小組與發展權專家機制會期；無決議或調查委員會新報告公布。
+3. 條約機構判例資料庫（只用搜尋）：site:juris.ohchr.org 搜尋無範圍內結果；無新項目。
+4. 條約機構審查紀錄：UN Transcripts 列表已翻到 10 月 23 日（範圍起點之前）；有新項目（CCPR 4299、4300、4301，CEDAW 3039）。條約機構總覽因 OHCHR 判定整站故障未開啟。UNOG Newsroom 搜尋未出現 10 月 27 日記者會頁，改用 UN Transcripts 的日內瓦記者會紀錄。
+5. 特別程序：OHCHR 判定整站故障；以 UN News、AA、ANI、Delfino.cr 與第三委員會議程補查。搜尋結果中出現的 OHCHR 新聞稿（Gen-Z 青年、伊朗處決、司法與氣候）經轉載報導核對，發布日分別為 10 月 17 日、10 月 9 日、10 月 21 日，均在範圍外，未收錄。
+6. 聯合國會議報導：首頁已開啟；GA/SHC/4450 與 shc4451 全文頁各試兩次均出現 Client Challenge 或網站錯誤，只確認標題。
+7. 歐洲人權法院：首頁已開啟（10 月新聞涵蓋至 10 月 8 日，已到範圍起點之前）；Forthcoming 頁與預告 PDF 已開啟；10 月 27 日 3 件判決無新聞稿；無可確認的新判決內容。
+8. 美洲人權法院（只用搜尋）：site:corteidh.or.cr 搜尋最新為 cp_59_2026，開啟兩次網站錯誤；以西班牙文搜尋補查，找到阿根廷判決履行報導；無新判決。
+9. 美洲人權委員會（只用搜尋）：site:oas.org/es/cidh 搜尋無範圍內新聞稿；改用 La Estrella de Panamá、Diario Extra 報導；新項目依報導收錄。
+10. 非洲人權委員會與非洲人權法院：委員會新聞頁已開啟（列表最早至 10 月 17 日，已到範圍起點之前），範圍內只有 10 月 26 日兩支影片；非洲人權法院新聞頁為舊快照（最新 3 月 6 日），AfricanLII 2026 頁最新 7 月 6 日；無新項目。
+11. 國際法院新聞稿：已開啟；有新項目（No. 2026/25，10 月 27 日）；個別新聞稿頁搜尋結果指向錯誤節點，內容未能確認。
+12. ILO 新聞：列表頁 https://www.ilo.org/resource/news 因不在搜尋結果中被攔截；site: 搜尋未出現範圍內新聞；改以 UN News 與日內瓦記者會紀錄確認家事勞工估計；ILO 活動頁已開啟。
+13. 歐洲理事會：人權專員 2026 新聞頁與活動頁連續兩頁網站錯誤，判定 coe.int 整站故障；ECtHR（echr.coe.int）不受影響。無法查核。
+14. 歐盟：理事會新聞稿 RSS 已開啟（涵蓋至 10 月 26 日，可能尚未更新 27 日之後）；執委會與歐洲議會 site: 搜尋未見範圍內人權項目；無新項目。
+15. 台灣國家人權委員會（只用搜尋）：「國家人權委員會 新聞稿 115年10月」搜尋未見範圍內新聞稿；另查得衛福部 CRPD 國際審查公告（9 月 24 日建檔，列入即將發生）；無新項目。
 
 廣泛檢索
 
-- 總搜尋次數：約 200 次（四組合計，含固定來源的 site: 搜尋；主題檢索組約 83 次）。
-- 主題 1：Commission of Inquiry Ukraine report General Assembly 2026、Fact-Finding Mission Sudan General Assembly October 2026、Commission on Human Rights in South Sudan、Universal Periodic Review 53rd session November 2026、Albanese report 2026。
-- 主題 2：treaty body concluding observations October 2026、Human Rights Committee Jamaica review October 2026、CEDAW 93rd session、Committee against Torture／CESCR session、CRC OR CED OR CRPD views adopted。
-- 主題 3：OHCHR press release 26 October 2026 human rights experts、UN rights experts urge 26 October 2026、special rapporteur General Assembly report October 28 2026 Iran Afghanistan、Third Committee draft resolution adopted recorded vote October 2026。
-- 主題 4：ECtHR judgment 27 October 2026、Forthcoming judgments 27-29.10.2026、Grand Chamber October 2026、Corte Interamericana sentencia notificada octubre 2026、CIDH comunicado de prensa 27 de octubre de 2026、IACHR press release October 26／28 2026、African Commission October 2026、Burkina Faso peine de mort（法文）。
-- 主題 5：International Court of Justice press release October 2026、ICJ press release 2026/25、ILO domestic workers report October 2026、EU Parliament plenary vote October 2026 human rights。
-- 主題 6：EU digital omnibus AI Act October 2026、Council of Europe Framework Convention AI October 2026、CSDDD omnibus、business and human rights binding instrument 12th session、UFLPA entity list October 2026、EU forced labour regulation guidance、ILO C190 ratification 2026、climate litigation ruling October 2026、Giudizio Universale、abortion court ruling October 27 2026、aborto fallo Corte Constitucional octubre 2026。
-- 各國法院：Supreme Court ruling October 2026 international human rights、Colombia bloque de constitucionalidad；Malawi24 10 月 28 日報導的 AC (a Minor) v Ministry of Health（強暴致孕兒童的安全墮胎）判決日期寫 2025 年 10 月 28 日，無法確認，未收錄。
-- 台灣：國家人權委員會 2026年10月 新聞稿、法務部 人權 國家報告 審查 2026年10月、監察院 國家人權委員會 115年10月、行政院人權及轉型正義處 2026年10月、CEDAW 第五次國家報告 2026；未查得範圍內台灣官方人權新發展。
-- 專業媒體與部落格：UN News（英文、中文）、Just Security（10 月 26 日、27 日 Early Edition，取得調查委員會線索）、Strasbourg Observers（10 月 27 日評析 Le Syndicat GJ v France，判決日期不在本期範圍，未收錄）、Amnesty International（列表 10 月 26 日至 28 日共 12 則）、Human Rights Watch（列表頁權限逾時，個別開啟 3 則）、I-CONnect（10 月 26 日週報）。EJIL:Talk!（最新 9 月 16 日）、Opinio Juris、Verfassungsblog、IntLawGrrls、IJRC、ISHR 搜尋未見範圍內相關文章；Business & Human Rights Resource Centre 條約頁無法開啟。
+- 總搜尋次數：84 次（含固定來源的 site: 搜尋）。
+- 主題 1（人權理事會）：UN human rights office statement 26 October 2026、UN rights chief Türk 28 October 2026、Commission of Inquiry Ukraine Third Committee、UPR 53rd session timetable。
+- 主題 2（條約機構）：Human Rights Committee Jamaica review October 2026、Committee views communication decision October 2026、site:juris.ohchr.org、ccprcentre 146th session general comment article 22。
+- 主題 3（特別程序）：UN experts／Special Rapporteur urges 28 October 2026、Albanese Truth under the rubble Third Committee、mediacide、Myanmar Special Rapporteur Third Committee、Iran executions UN experts、Gen-Z youth repression UN expert、justice systems climate crisis UN expert、Working Group business and human rights General Assembly 2026、Astrid Puentes report。
+- 主題 4（區域機制）：Judgments and decisions 27.10.2026、European Court of Human Rights judgment 27 October 2026、Dogar v. Romania、Cour européenne arrêt 27 octobre 2026、site:corteidh.or.cr comunicado octubre 2026、Corte IDH sentencia octubre 2026、CIDH 197 período de sesiones Panamá、CIDH comunicado 27 octubre 2026、African Court judgment October 2026。
+- 主題 5（其他）：site:icj-cij.org press release 2026、site:ilo.org/resource/news、ILO Governing Body 358th session、Council of Europe news 27 October 2026、site:europarl.europa.eu human rights resolution、EU forced labour regulation October 2026。
+- 主題 6（跨議題）：UFLPA Entity List BGI October 2026、Council of Europe AI Convention ratification、CSDDD omnibus 27 October 2026、climate lawsuit ruling October 27 2026、abortion court ruling October 2026、forced labour migrant workers report 26 October 2026、Business and Human Rights Resource Centre forced labour lawsuit。
+- 前後半段：前半（10 月 25 日至 26 日）以 26 日第三委員會、UN News 26 日項目、阿根廷命令為主；後半（10 月 27 日至 28 日）以 27 日 CCPR 與 ILO、28 日 UFLPA、Türk 記者會、尼加拉瓜專家記者會為主。搜尋引擎對日期限定查詢的回應偏舊，多數主題實際是用列表頁（UN News、press.un.org、UN Transcripts）補足前後半段。
+- 各國法院：supreme court ruling cites international human rights treaty October 2026、Corte Constitucional sentencia tratado internacional octubre 2026；未查得範圍內援引國際人權法的重要判決。
+- 台灣：國家人權委員會新聞稿、CRPD 第三次國家報告國際審查。
+- 專業媒體與部落格：UN News（已開啟）、EJIL:Talk!（ECtHR 分類頁最新 9 月 16 日）、Opinio Juris 與 Just Security（搜尋只回傳舊分類頁）、Strasbourg Observers（已開啟，10 月 27 日一篇 Le Syndicat GJ v France 評析，評論舊判決）、I-CONnect（10 月 26 日週報，線索為波蘭墮胎法案）、Human Rights Watch（新聞列表回傳 2004 年舊頁）、Amnesty（Lina Atallah 新聞稿為 10 月 21 日，範圍外）、Business & Human Rights Resource Centre（搜尋）。Verfassungsblog、IntLawGrrls、ISHR、IJRC 未查得範圍內相關文章。
 
 來源維護
 
-- OHCHR 首頁回傳 2026 年 2 月舊快照，個別新聞稿頁全面出現網站錯誤；建議以 UN News（https://news.un.org/en/news）與 UN Transcripts（https://transcripts.un.org/）作為替代。
-- UN Geneva 會議摘要被 robots 規則擋下；替代來源為 UN Transcripts 與 UNOG Newsroom（https://www.unognewsroom.org/）。
-- 歐洲理事會 full-news（英文、法文）回傳舊快照；替代來源為 rm.coe.int 的議程與文件 PDF。
-- 歐盟理事會新聞稿列表無法開啟；替代來源為 RSS（https://www.consilium.europa.eu/en/rss/pressreleases.ashx）。
-- 台灣國家人權委員會 n=7479 回傳 2023 年項目，n=9772 停在 8 月；建議下次改以 site:nhrc.cy.gov.tw 搜尋。
-- 非洲人權法院網站各列表為舊快照；替代來源為 AfricanLII（https://africanlii.org/en/judgments/AfCHPR/）。
+- OHCHR 首頁與人權理事會首頁持續回傳舊快照，本期判定整站故障。
+- coe.int 人權專員新聞頁與活動頁本期網站錯誤，判定整站故障；替代來源建議：rm.coe.int 文件與 ECtHR 網站。
+- ILO 新聞列表頁 https://www.ilo.org/resource/news 本期因不在搜尋結果中被攔截；替代來源：https://www.ilo.org/meetings-and-events/ongoing-upcoming 與 UN Transcripts 日內瓦記者會。
+- HRW 新聞列表 https://www.hrw.org/news 回傳 2004 年舊頁，建議改以 site:hrw.org/news/2026 搜尋。
+- 非洲人權法院 news-and-updates 頁為 3 月舊快照，AfricanLII 2026 頁最新 7 月，可能也未更新。
+- 本期新增可用替代來源：UN Transcripts 日內瓦記者會紀錄 https://transcripts.un.org/en/briefing/geneva/2026-10-27 。
 
-前期待確認處理：Albanese 報告已確認並收錄；布吉納法索死刑表決日依報導為 10 月 20 日，仍保留於待確認；Hamurabi Huesca 案的 RELE 聲明依 La Jornada 10 月 24 日報導約於 10 月 23 日發出，在本期範圍之前，且官方新聞稿仍無法開啟，本期移出待確認，不再追蹤。
+因不在搜尋結果中被攔截的網址
+
+- https://www.ilo.org/resource/news
+- https://www.un.org/unispal/document/truth-under-the-rubble-francesca-albane-report-21jul26/
 
 逐日檢查
 
-- 10 月 25 日（15:26 起）：週日。聯合國會議報導列表當日僅秘書長非人權致詞，UN Transcripts、ACHPR、ECtHR 列表均無人權項目；OHCHR 無法核查，ILO 列表未涵蓋本日。判斷為確實無新發展，但 OHCHR 部分存在漏查可能。
-- 10 月 26 日：UN News（烏克蘭調查委員會、希伯倫）、聯合國會議報導（GA/SHC/4450）、UN Transcripts（CCPR 第 22 條草案、牙買加審查開始、CEDAW NGO 簡報）、CIDH 會期開幕（依報導）、HRW（歐盟監控出口）有項目。
-- 10 月 27 日：聯合國會議報導（GA/SHC/4451）、UN News（緬甸、家事勞工）、UN Transcripts（CCPR 牙買加）、ICJ（No. 2026/25）、ILO（家事勞工）、ECtHR（3 件判決，內容待確認）、Amnesty／HRW（埃及 Mada Masr）有項目。
-- 10 月 28 日：Federal Register（UFLPA）、CEJIL（厄瓜多聽證）、CIDH 委內瑞拉聲明（依報導）有項目。聯合國來源本日涵蓋最弱：第三委員會蘇丹、伊朗、阿富汗會議與 OHCHR 新聞稿因網站錯誤與搜尋上限未能核查，列入待確認。
-- 10 月 29 日（至 03:26）：歐洲與日內瓦時間仍為 10 月 28 日夜間，無新項目。
+- 10 月 25 日（15:26 起）：週日。UN News、press.un.org、UN Transcripts 列表均涵蓋本日，只有秘書長致世界投資論壇訊息，無人權項目；判斷確實無新發展。
+- 10 月 26 日：第三委員會（烏克蘭、巴勒斯坦、尼加拉瓜）、CCPR（一般性意見二讀、牙買加）、秘書長婦女和平安全報告、阿根廷第 1255/2026 號命令、美洲人權委員會會期開議有項目。
+- 10 月 27 日：CCPR 牙買加、ILO 家事勞工估計、第三委員會緬甸與南蘇丹、ICJ No. 2026/25、ECtHR 3 件判決（結果待確認）有項目。
+- 10 月 28 日：UFLPA 公告送公開檢閱、Türk 紐約記者會、尼加拉瓜專家小組記者會有項目；第三委員會蘇丹、伊朗、阿富汗場次未取得可核對內容。
+- 10 月 29 日（至 03:26）：歐洲與日內瓦仍為 28 日晚間；只有 UFLPA 公告的聯邦公報刊登日落在本日，無其他新項目。
