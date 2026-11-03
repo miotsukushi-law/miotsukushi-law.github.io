@@ -3,8 +3,8 @@ layout: issue
 title: "國際人權法每日快報｜2026 年 11 月 2 日"
 date: 2026-11-02 04:30:00 +0800
 categories: [human-rights]
-tags: [CEDAW, ECtHR, 聯合國大會, 人權盡職調查, 強迫勞動, ILO, 職業安全, 台灣]
-summary: "俄羅斯獨立媒體《新報》宣布被迫停刊，高級專員 Türk 與 HRW、國際特赦組織同日譴責；CEDAW 第 93 屆會期閉幕，通過 8 國結論性意見並啟動身心障礙女性一般性建議起草；歐洲人權法院 10 月 29 日再判摩爾多瓦未調查反 LGBT 暴力的歧視動機。"
+tags: [CEDAW, ECtHR, 聯合國大會, 人權盡職調查, 強迫勞動, ILO, 歐盟, 台灣]
+summary: "俄羅斯獨立媒體《新報》宣布被迫停刊，高級專員 Türk 與 HRW、國際特赦組織同日譴責；CEDAW 第 93 屆會期閉幕，通過 8 國結論性意見並啟動身心障礙女性一般性建議起草；歐洲人權法院 10 月 29 日再判摩爾多瓦未調查反 LGBT 暴力的歧視動機；11 月 3 日補充波蘭憲法法庭院長遭命暫停職務的領導權衝突。"
 upcoming:
   - date: "2026-11-02"
     title: "UPR 工作小組第 53 屆會議，審查希臘、匈牙利、泰國、愛爾蘭、美國等 14 國（至 11 月 13 日，時程暫定）"
@@ -34,10 +34,10 @@ upcoming:
     title: "歐洲人權法院就 Macagnino and Marzo v. Italy 與 Cavallotti and Others v. Italy 舉行公開聽審"
     kind: "會議"
     url: "https://www.echr.coe.int/e/news-copy-/20132/10475893"
-  - date: "2027-02"
-    title: "CEDAW 委員會第 94 屆會期"
+  - date: "2026-11-03"
+    title: "波蘭憲法法庭代理院長 Korwin-Piotrowska 召集法官全體會議審議 2027 年預算；Święczkowski 等 8 名法官表示不出席，最高法院同日召開全體會議"
     kind: "會議"
-    url: "https://transcripts.un.org/en/cedaw/3046"
+    url: "https://www.prawo.pl/prawnicy-sady/zgromadzenie-ogolne-sedziow-tk-korwin-piotrowska-zapowiedz-swieczkowskiego,1556242.html"
 ---
 
 ## 一、本期重點
@@ -47,6 +47,7 @@ upcoming:
 - CEDAW 第 93 屆會期 10 月 30 日閉幕：通過安哥拉、維德角、庫克群島、哈薩克、肯亞、巴拉圭、摩爾多瓦、多哥 8 國結論性意見，作成 5 件個人申訴決定，並成立工作小組起草第 42 號一般性建議（身心障礙婦女與女童的實質平等與交織歧視）。
 - 歐洲人權法院 Genderdoc-M v. the Republic of Moldova（10 月 29 日，依報導）：檢方拖到違警罰時效屆滿，未追究 2014 年遊行中撕毀彩虹旗、毆打參與者的反示威者，也沒調查仇恨動機，法院一致認定違反第 14 條結合第 11 條。
 - 工商企業與人權：聯合國工商企業與人權工作小組 10 月 29 日向聯大第三委員會提出公司治理報告（A/81/180），處理董事與高階經理人的人權責任；美國 2 家捕蝦業者 10 月 28 日依關稅法第 337 條向國際貿易委員會申請排除強迫勞動生產的印度蝦，被申請人包括 ALDI 等連鎖超市。
+- 波蘭憲法法庭（10 月 30 日，11 月 3 日補充）：由現任眾議院選出、但未在總統面前宣誓的法官進入法院，代理院長 Korwin-Piotrowska 命院長 Święczkowski 與副院長 Sochański 暫停職務一個月，總統 Nawrocki 稱之為政變。爭點是如何執行歐洲人權法院 Xero Flor 案與歐盟法院 C-448/23 號判決。
 
 ## 二、分類條目
 
@@ -164,6 +165,14 @@ upcoming:
 
 來源：[ICJ 首頁](https://icj-cij.org/en)
 
+#### 波蘭憲法法庭（Trybunał Konstytucyjny）領導權衝突：院長與副院長遭命暫停職務｜2026 年 10 月 30 日（11 月 3 日補充）
+
+2026 年 3 月 13 日現任眾議院選出 6 名憲法法庭法官，總統 Nawrocki 只替其中部分人主持宣誓，院長 Święczkowski 也不讓在眾議院議長面前宣誓的法官審案。10 月 30 日這批法官進入法院，資歷最深的 Korwin-Piotrowska 法官以代理院長身分，依《普通法院組織法》第 130 條命院長與副院長立即暫停職務（依該條，暫停到懲戒法院作出決議為止），理由是兩人阻撓法官全體會議與 2027 年預算、違法分案。檢察總長兼司法部長 Żurek 同日提出 5 件解除豁免權聲請。總統當晚中斷塞內加爾行程返國，對在場法官說「你們不是法官」，總統府稱此舉是政變；Święczkowski 表示他與另 7 名法官不承認代理院長，不出席她召集的會議。歐盟執委會發言人 11 月 1 日表示，確保憲法法庭依波蘭憲法與歐盟法院判例運作是波蘭當局的責任。
+
+法律意義：這不是判決，是執行既有國際判決時出現的國內衝突，背後有三層國際法依據。歐洲人權法院 Xero Flor w Polsce sp. z o.o. v. Poland（2021）認定有「替補法官」參與審理的憲法法庭，不是公約第 6 條第 1 項所稱「依法設立的法庭」，2026 年 5 月 5 日並發出暫時措施，要求波蘭當局不得阻撓眾議院 3 月選出的法官就職。歐盟法院 Commission v Poland（C-448/23，2025 年 12 月 18 日）認定憲法法庭因 2015 年與 2016 年的違法任命，已不符合歐盟法上的法院要件。威尼斯委員會 2026 年 10 月 13 日的意見認為總統不得任意阻擋宣誓（依執委會發言人說法）。各方對代理院長命令的合法性看法分歧：Scheppele、Pech、Kisilowski 認為是可受審查的合法措施，赫爾辛基人權基金會質疑其權限、主張協商解決，Matczak 教授認為解除院長職務沒有法律依據。後續要看 11 月 3 日法官全體會議能否達到 10 人法定人數，以及懲戒法院怎麼處理。本則前期漏收，依波蘭媒體與 Verfassungsblog 補充，法院官方公告本期未開啟。
+
+來源：[Rzeczpospolita：Co się dzieje w Trybunale Konstytucyjnym? Wyjaśniamy](https://www.rp.pl/polityka/art45424911-co-sie-dzieje-w-trybunale-konstytucyjnym-wyjasniamy)；[Prawo.pl：Zgromadzenie Ogólne Sędziów TK](https://www.prawo.pl/prawnicy-sady/zgromadzenie-ogolne-sedziow-tk-korwin-piotrowska-zapowiedz-swieczkowskiego,1556242.html)；[poland.us](https://poland.us/en/poland-constitutional-tribunal-dispute-president-sidelined/)；[Verfassungsblog：Whose Coup?](https://verfassungsblog.de/whose-coup-polish-constitutional-tribunal-crisis/)；[Verfassungsblog：The Oath Towards the President](https://verfassungsblog.de/the-oath-towards-the-president/)；[Verfassungsblog：前任院長聲明](https://verfassungsblog.de/statement-by-former-presidents-of-the-constitutional-tribunal-on-the-crisis-in-the-constitutional-tribunal/)；[TRT World（執委會發言人）](https://www.trtworld.com/article/be88a4a1fa1e)
+
 #### 巴基斯坦反恐法院判處人權律師 Imaan Mazari-Hazir 與 Hadi Ali Chattha 10 年徒刑｜2026 年 10 月 29 日（依國際特赦組織）
 
 伊斯蘭瑪巴德反恐法院 10 月 29 日以反恐相關罪名判處兩名人權律師各 10 年。兩人 1 月已依《防止電子犯罪法》因社群貼文被判刑，最高法院 9 月停止執行並准予交保，但當天又以反恐罪名再度被捕。特赦組織指出審判一度不准本人出庭、之後移到監獄內進行，被告被關在籠狀設施中受審。
@@ -240,6 +249,7 @@ ILO 秘書長在國際照顧與支持日發表聲明，指出照顧工作者普�
 - **2026 年 11 月 17 日**｜台灣 CRPD 第三次國家報告國際審查會議（至 11 月 19 日，11 月 22 日發表結論性意見）（[來源](https://www.mohw.gov.tw/cp-101-88074-1.html)）
 - **2026 年 12 月 2 日**｜歐洲人權法院就 Ahmad v. Denmark 與 Makki v. Denmark 舉行公開聽審（[來源](https://www.echr.coe.int/e/news-copy-/20132/10475893)）
 - **2026 年 12 月 16 日**｜歐洲人權法院就 Macagnino and Marzo v. Italy 與 Cavallotti and Others v. Italy 舉行公開聽審（[來源](https://www.echr.coe.int/e/news-copy-/20132/10475893)）
+- **2026 年 11 月 3 日**｜波蘭憲法法庭代理院長召集法官全體會議審議 2027 年預算，Święczkowski 等 8 名法官表示不出席；最高法院同日召開全體會議（[來源](https://www.prawo.pl/prawnicy-sady/zgromadzenie-ogolne-sedziow-tk-korwin-piotrowska-zapowiedz-swieczkowskiego,1556242.html)）
 - **2027 年 2 月**｜CEDAW 委員會第 94 屆會期（[來源](https://transcripts.un.org/en/cedaw/3046)）
 
 ## 五、待確認
@@ -282,6 +292,13 @@ ILO 秘書長在國際照顧與支持日發表聲明，指出照顧工作者普�
 - [ACHPR：Communiqué de presse sur la réintroduction de la peine de mort au Burkina Faso](https://achpr.au.int/index.php/en/news/press-releases/2026-10-28/communique-de-presse-reintroduction-de-la-peine-de-mort-burkina-faso)
 - [ACHPR：Tripartite Study on Challenges of Litigating Women's and Girls' Human Rights](https://achpr.au.int/index.php/en/documents/2026-10-30/tripartite-study-challenges-litigating-womensgirls-human-rights)
 - [ICJ 首頁](https://icj-cij.org/en)
+- [Rzeczpospolita：Co się dzieje w Trybunale Konstytucyjnym? Wyjaśniamy](https://www.rp.pl/polityka/art45424911-co-sie-dzieje-w-trybunale-konstytucyjnym-wyjasniamy)
+- [Prawo.pl：Zgromadzenie Ogólne Sędziów TK](https://www.prawo.pl/prawnicy-sady/zgromadzenie-ogolne-sedziow-tk-korwin-piotrowska-zapowiedz-swieczkowskiego,1556242.html)
+- [poland.us：Dispute over Poland's Constitutional Tribunal](https://poland.us/en/poland-constitutional-tribunal-dispute-president-sidelined/)
+- [Verfassungsblog：Whose Coup?](https://verfassungsblog.de/whose-coup-polish-constitutional-tribunal-crisis/)
+- [Verfassungsblog：The Oath Towards the President and the Suspension of the Chief Justice](https://verfassungsblog.de/the-oath-towards-the-president/)
+- [Verfassungsblog：Statement by Former Presidents of the Constitutional Tribunal](https://verfassungsblog.de/statement-by-former-presidents-of-the-constitutional-tribunal-on-the-crisis-in-the-constitutional-tribunal/)
+- [TRT World：EU urges Poland to uphold legal standards amid tribunal crisis](https://www.trtworld.com/article/be88a4a1fa1e)
 - [Amnesty International：Latest](https://www.amnesty.org/en/latest/)
 - [Amnesty International：Pakistan terrorism conviction of human rights lawyers](https://www.amnesty.org/en/latest/news/2026/10/pakistan-terrorism-conviction-of-human-rights-lawyers-an-indictment-of-justice-system/)
 - [Amnesty International：Cambodia scamming compounds](https://www.amnesty.org/en/latest/news/2026/10/cambodia-security-companies-enabled-slavery-and-rape-in-scamming-compounds/)
@@ -299,6 +316,8 @@ ILO 秘書長在國際照顧與支持日發表聲明，指出照顧工作者普�
 - [Just Security：Early Edition October 29, 2026](https://www.justsecurity.org/162389/early-edition-october-29-2026/)
 
 ## 七、本期檢查紀錄
+
+11 月 3 日補充說明：本期原版漏收波蘭憲法法庭 10 月 30 日的領導權衝突。原因是「各國法院」只用「援引國際人權法的判決」當關鍵字，這次事件不是判決；歐洲理事會網站又判定整站故障，沒有機會從威尼斯委員會或人權專員的反應回頭發現。補充時依序查了 Verfassungsblog（11 月 2 日三篇）、Rzeczpospolita、Prawo.pl、poland.us 與 TRT World 轉述的歐盟執委會發言，額外使用 4 次搜尋。另在 EJIL:Talk! 人權分類看到 10 月 29 日〈Opening the Door to Collective Enforcement: Council of Europe Proposals to Secure Payment of ECtHR Awards Against Russia〉一文，涉及歐洲理事會處理俄羅斯未付賠償的提案，原始文件尚未找到，留待下期追蹤。
 
 查找範圍：台北時間 2026 年 10 月 28 日 15:26 至 11 月 2 日 03:26（週一期，往前 96 小時另加 12 小時緩衝，共 108 小時）。涵蓋日期：10 月 28 日（下午起）、29 日、30 日、31 日、11 月 1 日、11 月 2 日（凌晨）。範圍跨 10 月與 11 月，兩個月份都已搜尋。
 
@@ -360,7 +379,7 @@ ILO 秘書長在國際照顧與支持日發表聲明，指出照顧工作者普�
 
 - 10 月 28 日（15:26 起）：Section 337 申請（美國時間）、ACHPR 布吉納法索聲明刊登、UN Transcripts 第三委員會第 31、32 次會議（內容未取得）；Türk 與尼加拉瓜專家記者會前期已報導。
 - 10 月 29 日：工作小組 A/81/180 提出、歐洲人權法院 Genderdoc-M 判決、ICJ No. 2026/26、ILO 照顧工作者聲明、巴基斯坦反恐法院判決、特赦組織柬埔寨報告、社會論壇開議有項目。
-- 10 月 30 日：《新報》停刊與 Türk 聲明、人權辦公室加薩強制移送、CEDAW 閉幕、聯大審議人權理事會報告、第三委員會發展權對話、美洲人權委員會巴拿馬場次閉幕、ACHPR 三方研究、ILO 熱壓力估計、第九巡迴上訴法院裁定有項目。
+- 10 月 30 日：《新報》停刊與 Türk 聲明、人權辦公室加薩強制移送、CEDAW 閉幕、聯大審議人權理事會報告、第三委員會發展權對話、美洲人權委員會巴拿馬場次閉幕、ACHPR 三方研究、ILO 熱壓力估計、第九巡迴上訴法院裁定、波蘭憲法法庭領導權衝突（11 月 3 日補充）有項目。
 - 10 月 31 日：週六。UN News 列表有 Türk 胡塞拘禁聲明；UN Transcripts 只有生物多樣性與世界城市日場次；判斷除該聲明外無其他人權新發展。
 - 11 月 1 日：週日。UN News 只有生物多樣性公約 COP17 與西撒哈拉特派團結束兩則，UN Transcripts 只有城市論壇場次，Amnesty 與 HRW 列表無本日項目；判斷確實無新發展。
 - 11 月 2 日（03:26 前）：日內瓦與紐約均尚未開始上班，無項目；UPR 第 53 屆與 CESCR 第 80 屆當日開議，列入即將發生。
