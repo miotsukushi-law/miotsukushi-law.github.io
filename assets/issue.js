@@ -8,11 +8,56 @@
   var wide = window.matchMedia('(min-width: 761px)').matches;
 
   function hash(s) { var h = 5381; for (var i = 0; i < s.length; i++) h = ((h << 5) + h + s.charCodeAt(i)) | 0; return (h >>> 0).toString(36); }
+  // 條目標題有兩種寫法：整段粗體（**標題**），或四級標題（#### 標題）。
   function isItemHeading(p) {
+    if (p.tagName === 'H4') return true;
     if (p.tagName !== 'P' || !p.firstElementChild) return false;
     var c = p.firstElementChild;
     return c.tagName === 'STRONG' && c.textContent.trim() === p.textContent.replace(/收藏\s*$/, '').trim();
   }
+  function itemTitle(el) {
+    return (el.tagName === 'H4' ? el.textContent.replace(/收藏\s*$/, '') : el.firstElementChild.textContent).trim();
+  }
+
+  // 0. 本期檢查紀錄（及舊版的「本期說明」）收起來，只留一個連結，點了才展開
+  (function () {
+    var kids = Array.prototype.slice.call(prose.children);
+    var start = -1;
+    for (var i = 0; i < kids.length; i++) {
+      if (kids[i].tagName === 'H2' && /檢查紀錄|^本期說明$/.test(kids[i].textContent.trim())) { start = i; break; }
+    }
+    if (start < 0) return;
+    var h2 = kids[start];
+    var label = h2.textContent.trim().replace(/^[一二三四五六七八九十]+、/, '');
+    var box = document.createElement('div');
+    box.className = 'checklog';
+    box.id = 'check-log';
+    box.hidden = true;
+    for (var j = start + 1; j < kids.length && kids[j].tagName !== 'H2'; j++) box.appendChild(kids[j]);
+    var p = document.createElement('p');
+    p.className = 'checklog-link';
+    var a = document.createElement('a');
+    a.href = '#check-log';
+    a.textContent = label;
+    a.setAttribute('aria-controls', 'check-log');
+    a.setAttribute('aria-expanded', 'false');
+    function show(on) {
+      box.hidden = !on;
+      a.setAttribute('aria-expanded', on ? 'true' : 'false');
+      p.classList.toggle('is-open', on);
+    }
+    a.addEventListener('click', function (e) {
+      e.preventDefault();
+      var on = box.hidden;
+      show(on);
+      if (history.replaceState) history.replaceState(null, '', on ? '#check-log' : location.pathname + location.search);
+    });
+    p.appendChild(a);
+    prose.insertBefore(p, h2);
+    prose.insertBefore(box, h2);
+    prose.removeChild(h2);
+    if (location.hash === '#check-log') show(true);
+  })();
 
   // 1. 本期目錄（## 與 ###）
   var heads = prose.querySelectorAll('h2, h3');
@@ -61,7 +106,7 @@
   var seen = {};
   Array.prototype.forEach.call(prose.children, function (el) {
     if (!isItemHeading(el)) return;
-    var title = el.firstElementChild.textContent.trim();
+    var title = itemTitle(el);
     var id = 'i-' + hash(title);
     if (seen[id]) id += '-' + (++seen[id]); else seen[id] = 1;
     el.id = id;

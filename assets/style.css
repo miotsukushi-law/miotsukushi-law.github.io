@@ -489,3 +489,12 @@ button.cal-day:hover { background: var(--card); }
 .art-rows a:hover .art-title, .art-list a:hover .art-title { text-decoration: underline; text-underline-offset: .2em; }
 .issue-line { margin: .3rem 0 1.2rem; }
 .leaf-when { margin: .35rem 0 0; font-family: var(--sans); font-size: .82rem; color: var(--muted); letter-spacing: .03em; }
+
+/* 本期檢查紀錄：預設收起，只顯示連結 */
+.checklog-link { margin: 2.5rem 0 0; padding-top: .8rem; border-top: 1px solid var(--rule); font-family: var(--sans); font-size: .85rem; }
+.checklog-link a { color: var(--muted); }
+.checklog-link a::after { content: " ▸"; }
+.checklog-link.is-open a::after { content: " ▾"; }
+.checklog-link a:hover { color: var(--ink); }
+.checklog { font-size: .9rem; color: var(--muted); }
+@media print { .checklog-link { display: none !important; } }

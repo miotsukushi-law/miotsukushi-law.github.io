@@ -25,7 +25,9 @@
   function q(s) { return "'" + String(s || '').replace(/\s+/g, ' ').trim().replace(/'/g, "''") + "'"; }
   function clip(s, n) { s = String(s || '').replace(/\s+/g, ' ').trim(); return s.length > n ? s.slice(0, n) + '…' : s; }
 
+  // 條目標題有兩種寫法：整段粗體（**標題**），或四級標題（#### 標題）。
   function isItemHeading(p) {
+    if (p.tagName === 'H4') return true;
     if (p.tagName !== 'P' || p.children.length !== 1) return false;
     var c = p.firstElementChild;
     return c.tagName === 'STRONG' && c.textContent.trim() === p.textContent.trim();
