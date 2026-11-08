@@ -21,15 +21,15 @@ sections:
   - key: labour
     name: 勞動
     full: 勞動法每日快報
-    freq: 每週一
+    freq: 每週二、五
   - key: digital
     name: 數位
     full: AI 與數位治理每日快報
-    freq: 每週一
+    freq: 每週二、五
   - key: esg
     name: 永續
     full: ESG 與供應鏈風險每日快報
-    freq: 每週一
+    freq: 每週二、五
 
 collections:
   articles:
